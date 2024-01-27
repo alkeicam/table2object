@@ -1,0 +1,85 @@
+{
+  "name": "table2object",
+  "version": "0.0.1",
+  "description": "Table to object - build object with structure from tabular data",
+  "main": "dist/table2object.umd.js",
+  "types": "dist/table2object.d.ts",
+  "module": "dist/table2object.esm.min.js",
+  "keywords": [
+    "strategy",
+    "game",
+    "engine"
+  ],
+  "exports": {
+    ".": {
+      "require": "./dist/table2object.umd.min.js",
+      "import": "./dist/table2object.esm.min.js"
+    }
+  },
+  "scripts": {
+    "docs": "typedoc --entryPointStrategy expand ./src && touch docs/.nojekyll",
+    "build:types": "tsc -t esnext --moduleResolution node -d --emitDeclarationOnly --outFile dist/table2object.d.ts src/table2object.ts",
+    "build:js": "rollup -c rollup.config.js",
+    "build:minjs:umd": "terser dist/table2object.umd.js --compress --mangle > dist/table2object.umd.min.js",
+    "build:minjs:esm": "terser dist/table2object.esm.js --compress --mangle > dist/table2object.esm.min.js",
+    "build:minjs": "npm run build:minjs:esm -s && npm run build:minjs:umd -s",
+    "build": "date && npm run build:js -s && npm run build:minjs -s && npm run build:types -s",
+    "test": "env TS_NODE_PROJECT=\"tsconfig-test.json\" mocha -r ts-node/register --require source-map-support/register --recursive **/test/**/*.test.ts",
+    "coverage": "nyc --reporter html --reporter text npm test",
+    "remote-publish-patch": "npm install && npm update && npm run coverage && npm run build && npm version patch && npm publish && git push origin && git push origin --tags",
+    "remote-publish-minor": "npm install && npm update && npm run coverage && npm run build && npm version minor && npm publish && git push origin && git push origin --tags"
+  },
+  "files": [
+    "src",
+    "dist"
+  ],
+  "author": "Maciej Grula",
+  "license": "MIT",
+  "dependencies": {
+    "eventemitter3": "^5.0.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^6.1.0",
+    "@types/chai": "4.2.14",
+    "@types/chai-as-promised": "7.1.3",
+    "@types/mocha": "8.0.3",
+    "@types/node": "20.5.0",
+    "@types/sinon": "9.0.8",
+    "@typescript-eslint/eslint-plugin": "4.6.1",
+    "@typescript-eslint/parser": "4.6.1",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "eslint": "7.12.1",
+    "mocha": "^8.4.0",
+    "nyc": "14.1.x",
+    "prettier": "^2.8.8",
+    "pretty-quick": "^3.1.3",
+    "rollup": "^2.79.1",
+    "sinon": "^9.2.4",
+    "terser": "^5.19.2",
+    "ts-node": "10.8.2",
+    "tslib": "^2.6.2",
+    "typedoc": "^0.25.1",
+    "typescript": "^5.1.6",
+    "source-map-support": "^0.5.21"
+  },
+  "nyc": {
+    "check-coverage": true,
+    "branches": 92,
+    "lines": 93,
+    "functions": 87,
+    "statements": 93,
+    "extension": [
+      ".ts",
+      ".tsx"
+    ],
+    "exclude": [
+      "**/*.d.ts",
+      "**/*.js",
+      "**/*.notest.ts",
+      "**/*.mock.ts",
+      "**/*.test.ts"
+    ],
+    "all": true
+  }
+}
