@@ -1,67 +1,93 @@
-
-export interface Accumulator {
-    [index: string]: string|number|any[],
+export interface Accumulators {
+    [index: string]: string|number,
     
 }
-export interface Group {
-    value: string|number,
-    displayValue: string
+export interface Level {   
+    [index: string]: Level|any
+    rows?: any[],
+    accumulators?:Accumulators
 }
 
-export interface Level {    
-    value: Accumulator, // multiple accumulated     
-    group: Group,    
-    next?: Level
+export interface Result {
+    propName: string,
+    value: number|string
 }
 
 /**
- * Generates new level from raw rows and/or previous level
- * 
+ * Is run after level rows are collected
+ * should add property do level object with accumulated value
  */
-export interface GeneratorFunction {
-    (propName: string, rows: any[], prevLevel?: Level): Level
+export interface AccumulatorFunction {
+    (level: Level): Result
 }
-/*
-events
 
-miesiac
-    tydzien
-        rank, pracownik, calories (suma w tygodniu), commits (suma w tygodniu), lines (suma w tygodniu) 
-               (rows) => {
-
-   
-                 }
-
-*/
 
 /**
  * 
  */
 export interface Specification{
     propName: string,
-    generator: GeneratorFunction
+    accumulators?: AccumulatorFunction[],
     next?: Specification
 }
 
 class Transformer {
-    transform(rows:any[], specs:Specification):Level{        
-        return this._level(rows, specs);
+    transform(rows:any[], specs:Specification):Level{  
+        // root level
+        const level:Level = {
+            rows: rows
+        }      
+        // iterate in depth along with specs
+        this._level(level, specs);
+
+        return level;
     }
 
     /**
-     * recursive, top down, start from root and go down first then accumulate on way up
-     * @param rows 
-     * @param currentSpecs 
      * @returns 
      */
-    _level(rows:any[], currentSpecs: Specification):Level{
-        let nextLevel;        
-        if(currentSpecs.next){
-            nextLevel = this._level(rows, currentSpecs.next)
-        }
-        const level = currentSpecs.generator(currentSpecs.propName, rows, nextLevel);   
-        level.next = nextLevel     
-        return level;
+    _level(currentLevel: Level, currentSpecs: Specification){
+                  
+        // if(currentSpecs.propName){
+        // get distinct values in propName column
+        const distinctValues = currentLevel.rows!.map(item=>item[currentSpecs.propName!]).filter((value, index, array)=>{return array.indexOf(value) === index});
+
+        distinctValues.forEach(key=>{
+            // get rows matching this key in column propName
+            const rowsWithKeyValueInPropCol = currentLevel.rows!.filter(item=>item[currentSpecs.propName!]==key);
+                        
+            currentLevel[key] = {
+                rows: rowsWithKeyValueInPropCol
+            }
+
+            if(currentSpecs.accumulators&&currentSpecs.accumulators.length>0){
+                currentSpecs.accumulators.forEach(accumulator=>{
+                    const result = accumulator(currentLevel[key]);
+                    if(!currentLevel[key].accumulators)
+                        currentLevel[key].accumulators = {}
+    
+                    currentLevel[key].accumulators[result.propName] = result.value
+                })
+            }
+
+            if(currentSpecs.next){                    
+                this._level(currentLevel[key], currentSpecs.next!);
+            }
+            
+            
+        })
+        // }
+          
+        
+        // if(currentSpecs.accumulators&&currentSpecs.accumulators.length>0){
+        //     currentSpecs.accumulators.forEach(accumulator=>{
+        //         const result = accumulator(currentLevel);
+        //         if(!currentLevel.accumulators)
+        //             currentLevel.accumulators = {}
+
+        //         currentLevel.accumulators[result.propName] = result.value
+        //     })
+        // }
     }
 }
 

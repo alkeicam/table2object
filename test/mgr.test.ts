@@ -29,6 +29,8 @@ const expect = chai.expect;
 
 import {Level, Specification, transformer} from "../src/table2object"
 import {EventsMocks} from "./data.mock"
+import { AccumulatorFunction } from '../src/logic/transformer';
+import {AccumulatorsFactory} from "../src/logic/accumulators"
 
 // const messageBus = new EventEmitter();
 
@@ -62,33 +64,78 @@ r2c1, r2c2, r2c3, r2c4, r1c5
 
 describe("table2object",()=>{
     describe("Transformer",()=>{
-        it("a",()=>{
-            const specs:Specification = {
-                generator:(_propName: string, _rows: any[], _prevLevel?: Level)=>{
-
-
-                    const result:Level = {
-                        group: {
-                            displayValue:"Total",
-                            value: "Total"
-                        },
-                        value: {
-                            // project, sum(effort), sum(commits), sum(lines)
-                            rows: []
-                        }                                                 
+        it("rows are split accordingly to structure",()=>{
+            const specs:Specification = {                
+                propName: "account",
+                next: {
+                    propName: "project",
+                    next: {
+                        propName: "oper"
                     }
-
-
-
-
-
-                    return result;
-                },
-                propName: "",
-                next:undefined
+                }
             }
             const result = transformer.transform(EventsMocks.devworkout_1, specs);
-            expect(result).eq({});
+            
+            expect(result.rows?.length).eq(EventsMocks.devworkout_1.length);
+            expect(result["a_execon"].rows.length).eq(EventsMocks.devworkout_1.length);
+
+            expect(result.a_execon.a_execon_devjam_app.rows.length).eq(17);            
+            expect(result.a_execon.a_execon_devjam_app.commit.rows.length).eq(11);
+            expect(result.a_execon.a_execon_devjam_app.push.rows.length).eq(6);
+
+            expect(result.a_execon.a_execon_devjam_sponsor.rows.length).eq(187);
+            expect(result.a_execon.a_execon_devjam_sponsor.commit.rows.length).eq(117);
+            expect(result.a_execon.a_execon_devjam_sponsor.push.rows.length).eq(70);
+        })
+
+        it("accumulators are applied accordingly to structure and specification",()=>{
+            // const sumEffort:AccumulatorFunction = (level:Level)=>{
+            //     const sum =  level.rows?.reduce((prev, curr)=>{
+            //         return prev += curr.s
+            //     },0)
+                
+            //     return {
+            //         propName: "effort",
+            //         value:sum
+            //     }
+            // }
+            const count:AccumulatorFunction = (level:Level)=>{
+                const val =  level.rows!.length;
+                
+                return {
+                    propName: "count",
+                    value:val
+                }
+            }
+
+            const specs:Specification = {                
+                propName: "account",
+                // accumulator used for prop name grouping
+                accumulators: [
+                    AccumulatorsFactory.sum("effort", "s"), count
+                ],
+                next: {
+                    propName: "project",
+                    accumulators: [],
+                    next: {
+                        propName: "oper",
+                        accumulators: [
+                            count
+                        ],
+                        next: {
+                            propName: "user"
+                        }                        
+                    }
+                }
+            }
+            const result = transformer.transform(EventsMocks.devworkout_1, specs);
+            expect(result.rows?.length).eq(EventsMocks.devworkout_1.length);
+            expect(result.a_execon.a_execon_devjam_app.commit["jan.kowalski@execon.pl"].accumulators).is.empty;
+            expect(result.a_execon.a_execon_devjam_app.push.accumulators.count).eq(6);
+            expect(result.a_execon.a_execon_devjam_app.commit.accumulators.count).eq(11);
+            expect(result.a_execon.a_execon_devjam_app.accumulators).is.empty;
+            expect(result.a_execon.accumulators.effort).closeTo(2544,0.1);
+            expect(result.accumulators).is.empty;            
         })
     })
 })
