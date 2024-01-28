@@ -1,5 +1,5 @@
 import {GeneratorFunction} from "./transformer"
-import moment from "moment"
+const moment = require("moment")
 
 export class GeneratorsFactory {    
     
