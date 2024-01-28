@@ -21,6 +21,9 @@ export interface AccumulatorFunction {
     (level: Level): Result
 }
 
+export interface GeneratorFunction {
+    (row: any): string
+}
 
 /**
  * 
@@ -28,11 +31,14 @@ export interface AccumulatorFunction {
 export interface Specification{
     propName: string,
     accumulators?: AccumulatorFunction[],
-    next?: Specification
+    next?: Specification|FunctionalSpecification
+}
+export interface FunctionalSpecification extends Omit<Specification,"propName">{
+    propGenerator: GeneratorFunction
 }
 
 class Transformer {
-    transform(rows:any[], specs:Specification):Level{  
+    transform(rows:any[], specs:Specification|FunctionalSpecification):Level{  
         // root level
         const level:Level = {
             rows: rows
@@ -46,14 +52,22 @@ class Transformer {
     /**
      * @returns 
      */
-    _level(currentLevel: Level, currentSpecs: Specification){
+    _level(currentLevel: Level, currentSpecs: FunctionalSpecification|Specification){
                           
-        // get distinct values in propName column
-        const distinctValues = currentLevel.rows!.map(item=>item[currentSpecs.propName!]).filter((value, index, array)=>{return array.indexOf(value) === index});
+        let distinctValues;
+
+        if((<FunctionalSpecification>currentSpecs).propGenerator){
+            distinctValues = currentLevel.rows!.map((<FunctionalSpecification>currentSpecs).propGenerator).filter((value, index, array)=>{return array.indexOf(value) === index});
+        }else{
+            // get distinct values in propName column
+            distinctValues = currentLevel.rows!.map(item=>item[(<Specification>currentSpecs).propName!]).filter((value, index, array)=>{return array.indexOf(value) === index});
+        }
+        
 
         distinctValues.forEach(key=>{
             // get rows matching this key in column propName
-            const rowsWithKeyValueInPropCol = currentLevel.rows!.filter(item=>item[currentSpecs.propName!]==key);
+
+            const rowsWithKeyValueInPropCol = (<FunctionalSpecification>currentSpecs).propGenerator?currentLevel.rows!.filter(item=>(<FunctionalSpecification>currentSpecs).propGenerator(item)==key):currentLevel.rows!.filter(item=>item[(<Specification>currentSpecs).propName!]==key);
                         
             currentLevel[key] = {
                 rows: rowsWithKeyValueInPropCol

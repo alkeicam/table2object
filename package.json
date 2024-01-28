@@ -1,7 +1,7 @@
 {
   "name": "table2object",
   "version": "0.0.2",
-  "description": "Table to object - build object with structure from tabular data",
+  "description": "Table to object - transform array with rows into an JavaScript object - build object with structure from tabular data",
   "main": "dist/table2object.umd.js",
   "types": "dist/table2object.d.ts",
   "module": "dist/table2object.esm.min.js",
@@ -36,7 +36,8 @@
   "author": "Maciej Grula",
   "license": "MIT",
   "dependencies": {
-    "eventemitter3": "^5.0.1"
+    "eventemitter3": "^5.0.1",
+    "moment": "2.30.1"
   },
   "devDependencies": {
     "@rollup/plugin-typescript": "^6.1.0",
