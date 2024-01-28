@@ -47,8 +47,7 @@ class Transformer {
      * @returns 
      */
     _level(currentLevel: Level, currentSpecs: Specification){
-                  
-        // if(currentSpecs.propName){
+                          
         // get distinct values in propName column
         const distinctValues = currentLevel.rows!.map(item=>item[currentSpecs.propName!]).filter((value, index, array)=>{return array.indexOf(value) === index});
 
