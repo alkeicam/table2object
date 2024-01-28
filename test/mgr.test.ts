@@ -27,9 +27,8 @@ const expect = chai.expect;
 // import EventEmitter from 'eventemitter3';
 // import { Tile } from '../src/logic/map/tile';
 
-import {Level, Specification, transformer} from "../src/table2object"
+import {Specification, transformer} from "../src/table2object"
 import {EventsMocks} from "./data.mock"
-import { AccumulatorFunction } from '../src/logic/transformer';
 import {AccumulatorsFactory} from "../src/logic/accumulators"
 
 // const messageBus = new EventEmitter();
@@ -88,31 +87,13 @@ describe("table2object",()=>{
             expect(result.a_execon.a_execon_devjam_sponsor.push.rows.length).eq(70);
         })
 
-        it("accumulators are applied accordingly to structure and specification",()=>{
-            // const sumEffort:AccumulatorFunction = (level:Level)=>{
-            //     const sum =  level.rows?.reduce((prev, curr)=>{
-            //         return prev += curr.s
-            //     },0)
-                
-            //     return {
-            //         propName: "effort",
-            //         value:sum
-            //     }
-            // }
-            const count:AccumulatorFunction = (level:Level)=>{
-                const val =  level.rows!.length;
-                
-                return {
-                    propName: "count",
-                    value:val
-                }
-            }
+        it("accumulators are applied accordingly to structure and specification",()=>{            
 
             const specs:Specification = {                
                 propName: "account",
                 // accumulator used for prop name grouping
                 accumulators: [
-                    AccumulatorsFactory.sum("effort", "s"), count
+                    AccumulatorsFactory.sum("effort", "s"), AccumulatorsFactory.count("count")
                 ],
                 next: {
                     propName: "project",
@@ -120,7 +101,7 @@ describe("table2object",()=>{
                     next: {
                         propName: "oper",
                         accumulators: [
-                            count
+                            AccumulatorsFactory.count("count")
                         ],
                         next: {
                             propName: "user"

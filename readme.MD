@@ -1,4 +1,6 @@
-# GameYngine - Typescript Strategy Game Engine
+# Table2Object
+
+Transforms array of Objects into an object with a provided structure. 
 
 # Loading Map
 Map can be populated by:

@@ -15,5 +15,17 @@ export class AccumulatorsFactory {
 
         return f;
     }
+    static count(propName: string):AccumulatorFunction{
+        const f:AccumulatorFunction = (level:Level)=>{
+            const val =  level.rows!.length
+            
+            return {
+                propName: propName,
+                value: val
+            }
+        }
+
+        return f;
+    }
 }
 
