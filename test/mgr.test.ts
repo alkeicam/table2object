@@ -138,9 +138,7 @@ describe("table2object",()=>{
             }
             const result = transformer.transform(EventsMocks.devworkout_2, specs);
             
-            console.log(EventsMocks.devworkout_2)
-            console.log(result);
-            expect(result).eq(0)
+            expect(result.acct1).is.not.null;
 
         })
     })
