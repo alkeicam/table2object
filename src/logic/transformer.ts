@@ -1,43 +1,68 @@
+/**
+ * Holds multiple accumulated values on Level object
+ */
 export interface Accumulators {
     [index: string]: string|number,
     
 }
+
+/**
+ * Building block of a result object that is generated from array of data
+ */
 export interface Level {   
     [index: string]: Level|any
     rows?: any[],
     accumulators?:Accumulators
 }
-
+/**
+ * Result (value) of accumulation, will be stored in the level at "propName" property.
+ */
 export interface Result {
     propName: string,
     value: number|string
 }
 
 /**
- * Is run after level rows are collected
- * should add property do level object with accumulated value
+ * Aggregates subarray of data for given structure level
  */
 export interface AccumulatorFunction {
     (level: Level): Result
 }
-
+/**
+ * Provides way for specifying custom properties to be used as structure keys instead 
+ * of array props/columns
+ */
 export interface GeneratorFunction {
     (row: any): string
 }
 
 /**
- * 
+ * Specifies how to transfer array of objects into structure
  */
 export interface Specification{
     propName: string,
     accumulators?: AccumulatorFunction[],
     next?: Specification|FunctionalSpecification
 }
+/**
+ * Extension that allows for building structure keys using custom function instead of an existing property/column in
+ * array data
+ */
 export interface FunctionalSpecification extends Omit<Specification,"propName">{
     propGenerator: GeneratorFunction
 }
 
+/**
+ * Transforms array of objects into provided structued object.
+ */
 class Transformer {
+    /**
+     * Performs array transformation using provided specification into object that holds both structure and structured rows
+     * along with any accumulators.
+     * @param rows input array of objects
+     * @param specs specification how to translate this object into structured json object
+     * @returns structure of Levels
+     */
     transform(rows:any[], specs:Specification|FunctionalSpecification):Level{  
         // root level
         const level:Level = {
@@ -50,7 +75,7 @@ class Transformer {
     }
 
     /**
-     * @returns 
+     * Internal. Handles level calculation.
      */
     _level(currentLevel: Level, currentSpecs: FunctionalSpecification|Specification){
                           
@@ -89,18 +114,6 @@ class Transformer {
             
             
         })
-        // }
-          
-        
-        // if(currentSpecs.accumulators&&currentSpecs.accumulators.length>0){
-        //     currentSpecs.accumulators.forEach(accumulator=>{
-        //         const result = accumulator(currentLevel);
-        //         if(!currentLevel.accumulators)
-        //             currentLevel.accumulators = {}
-
-        //         currentLevel.accumulators[result.propName] = result.value
-        //     })
-        // }
     }
 }
 

@@ -4,16 +4,16 @@ export const EventsMocks = {
   devworkout_1: [
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "wqp2yz9ibz8",
         "decoded": {
             "commit": "commit 861c46520ff1c198a621510b6fae3bf8cebdac74",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 22:59:01 2023 +0200",
             "message": "    top performers - initial",
@@ -40,7 +40,7 @@ export const EventsMocks = {
             "e": 16.653
         },
         "s": 116.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO0AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO0AAAAAAAAAA==/",
         "_etag": "\"d9001d2f-0000-0700-0000-64ee5c250000\"",
@@ -49,16 +49,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "12jjb85rdce9",
         "decoded": {
             "commit": "commit 9cd9a5adbbfbb842f220e32643502bd2f35ef8d0",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:02:44 2023 +0200",
             "message": "    sort fix",
@@ -82,7 +82,7 @@ export const EventsMocks = {
             "e": 11.75
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO1AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO1AAAAAAAAAA==/",
         "_etag": "\"d9001f33-0000-0700-0000-64ee5d160000\"",
@@ -91,16 +91,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "5j4a6shjccq",
         "decoded": {
             "commit": "commit 9cd9a5adbbfbb842f220e32643502bd2f35ef8d0",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:02:44 2023 +0200",
             "message": "    sort fix",
@@ -124,7 +124,7 @@ export const EventsMocks = {
             "e": 16.713
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO2AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO2AAAAAAAAAA==/",
         "_etag": "\"d9002033-0000-0700-0000-64ee5d160000\"",
@@ -133,16 +133,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "9s7e1ewxaoe",
         "decoded": {
             "commit": "commit 848504a842e81e7141f5e69c79a541ed3e31a6d9",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:21:16 2023 +0200",
             "message": "    c3",
@@ -166,7 +166,7 @@ export const EventsMocks = {
             "e": 15.534999999999998
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO3AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO3AAAAAAAAAA==/",
         "_etag": "\"d900ef47-0000-0700-0000-64ee61510000\"",
@@ -175,16 +175,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "2rlyltpib5m",
         "decoded": {
             "commit": "commit 005c9577dac672af2bce01bfcc9ec1a573e183e8",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:21:13 2023 +0200",
             "message": "    c2",
@@ -208,7 +208,7 @@ export const EventsMocks = {
             "e": 14.501000000000001
         },
         "s": 27.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO4AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO4AAAAAAAAAA==/",
         "_etag": "\"d900f047-0000-0700-0000-64ee61520000\"",
@@ -217,16 +217,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "ip0fayyl05",
         "decoded": {
             "commit": "commit 437dc48402b7d2b0dddee33698b1d1f075a8790e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:21:09 2023 +0200",
             "message": "    c1",
@@ -250,7 +250,7 @@ export const EventsMocks = {
             "e": 13.635
         },
         "s": 13.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO5AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO5AAAAAAAAAA==/",
         "_etag": "\"d900f147-0000-0700-0000-64ee61520000\"",
@@ -259,16 +259,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "4ku34vg3ek",
         "decoded": {
             "commit": "commit 3524bb5fce5e1222c10585a24a3d85f90926854f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:22:20 2023 +0200",
             "message": "    cleaning",
@@ -292,7 +292,7 @@ export const EventsMocks = {
             "e": 16.442999999999998
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO6AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO6AAAAAAAAAA==/",
         "_etag": "\"d9001e49-0000-0700-0000-64ee618e0000\"",
@@ -301,16 +301,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "3vnbq2bgn3m",
         "decoded": {
             "commit": "commit d705d0304ad21414acad9ebfef65059734e4b040",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:23:14 2023 +0200",
             "message": "    url",
@@ -334,7 +334,7 @@ export const EventsMocks = {
             "e": 16.136
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO7AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO7AAAAAAAAAA==/",
         "_etag": "\"d9005a4a-0000-0700-0000-64ee61ce0000\"",
@@ -343,16 +343,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "ve33lm6r8t",
         "decoded": {
             "commit": "commit d705d0304ad21414acad9ebfef65059734e4b040",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:23:14 2023 +0200",
             "message": "    url",
@@ -376,7 +376,7 @@ export const EventsMocks = {
             "e": 10.827
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO8AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO8AAAAAAAAAA==/",
         "_etag": "\"d900964b-0000-0700-0000-64ee620b0000\"",
@@ -385,16 +385,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "jf5i9dljxzi",
         "decoded": {
             "commit": "commit abf44bcc37f1e2604415b05d430b72de88e03e39",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:26:57 2023 +0200",
             "message": "    index",
@@ -418,7 +418,7 @@ export const EventsMocks = {
             "e": 11.264
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO9AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO9AAAAAAAAAA==/",
         "_etag": "\"d9002a4f-0000-0700-0000-64ee62c00000\"",
@@ -427,16 +427,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "ruy6t62lsq9",
         "decoded": {
             "commit": "commit abf44bcc37f1e2604415b05d430b72de88e03e39",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Tue Aug 29 23:26:57 2023 +0200",
             "message": "    index",
@@ -460,7 +460,7 @@ export const EventsMocks = {
             "e": 15.565
         },
         "s": 31.9,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO+AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO+AAAAAAAAAA==/",
         "_etag": "\"d9002b4f-0000-0700-0000-64ee62c00000\"",
@@ -469,16 +469,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "gqur684ar3u",
         "decoded": {
             "commit": "commit 7f4ee004f77d130e3e67f685b3ba10a03541594f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Aug 30 14:16:07 2023 +0200",
             "message": "    stats more",
@@ -504,7 +504,7 @@ export const EventsMocks = {
             "e": 11.543
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILO-AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO-AAAAAAAAAA==/",
         "_etag": "\"dd001852-0000-0700-0000-64ef33310000\"",
@@ -513,16 +513,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "g1d0hz00o0i",
         "decoded": {
             "commit": "commit 7f4ee004f77d130e3e67f685b3ba10a03541594f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Aug 30 14:16:07 2023 +0200",
             "message": "    stats more",
@@ -548,7 +548,7 @@ export const EventsMocks = {
             "e": 15.434
         },
         "s": 18.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPAAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPAAAAAAAAAAA==/",
         "_etag": "\"dd001952-0000-0700-0000-64ef33310000\"",
@@ -557,16 +557,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "46biiglifbx",
         "decoded": {
             "commit": "commit 3754b5b7041dbb9e3b6a638c16a787b9048a753d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Aug 30 15:05:35 2023 +0200",
             "message": "    yesterday fix",
@@ -592,7 +592,7 @@ export const EventsMocks = {
             "e": 12.192
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPKAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPKAAAAAAAAAA==/",
         "_etag": "\"dd00c889-0000-0700-0000-64ef3ea70000\"",
@@ -601,16 +601,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "h926hvju11k",
         "decoded": {
             "commit": "commit 3754b5b7041dbb9e3b6a638c16a787b9048a753d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Aug 30 15:05:35 2023 +0200",
             "message": "    yesterday fix",
@@ -636,7 +636,7 @@ export const EventsMocks = {
             "e": 15.622
         },
         "s": 70.1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPLAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPLAAAAAAAAAA==/",
         "_etag": "\"dd00c989-0000-0700-0000-64ef3ea70000\"",
@@ -645,16 +645,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "d4t4ddmsywu",
         "decoded": {
             "commit": "commit bb51128f2e79648ad7747c4b394557268f909c4c",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Aug 30 15:05:55 2023 +0200",
             "message": "    index",
@@ -678,7 +678,7 @@ export const EventsMocks = {
             "e": 11.353
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPMAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPMAAAAAAAAAA==/",
         "_etag": "\"dd00518a-0000-0700-0000-64ef3ebb0000\"",
@@ -687,16 +687,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_app",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_app",
         "id": "vre4ryns5w",
         "decoded": {
             "commit": "commit bb51128f2e79648ad7747c4b394557268f909c4c",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Aug 30 15:05:55 2023 +0200",
             "message": "    index",
@@ -720,7 +720,7 @@ export const EventsMocks = {
             "e": 14.489
         },
         "s": 46.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPNAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPNAAAAAAAAAA==/",
         "_etag": "\"dd00578a-0000-0700-0000-64ef3ebb0000\"",
@@ -729,16 +729,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "c1r4i4l8sto",
         "decoded": {
             "commit": "commit 263102d17329fbe344ea80b644ebfdfa772c101a",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Aug 30 19:55:22 2023 +0200",
             "message": "    fixes and swithcing projects - wip",
@@ -766,7 +766,7 @@ export const EventsMocks = {
             "e": 16.98
         },
         "s": 39.9,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPQAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPQAAAAAAAAAA==/",
         "_etag": "\"de0023d7-0000-0700-0000-64ef828c0000\"",
@@ -775,16 +775,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "vjzw0paddb",
         "decoded": {
             "commit": "commit 263102d17329fbe344ea80b644ebfdfa772c101a",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Aug 30 19:55:22 2023 +0200",
             "message": "    fixes and swithcing projects - wip",
@@ -812,7 +812,7 @@ export const EventsMocks = {
             "e": 12.729
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPRAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPRAAAAAAAAAA==/",
         "_etag": "\"de0056d7-0000-0700-0000-64ef82970000\"",
@@ -821,16 +821,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "frkyjdi981o",
         "decoded": {
             "commit": "commit 65884bfb7b6249a8c1b04bd3dd2d69c1fb9e38f2",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 2 07:44:19 2023 +0200",
             "message": "    projects performance",
@@ -855,7 +855,7 @@ export const EventsMocks = {
             "e": 12.237
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPSAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPSAAAAAAAAAA==/",
         "_etag": "\"ee00fde9-0000-0700-0000-64f2cbb90000\"",
@@ -864,16 +864,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "igpcu84dagb",
         "decoded": {
             "commit": "commit 65884bfb7b6249a8c1b04bd3dd2d69c1fb9e38f2",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 2 07:44:19 2023 +0200",
             "message": "    projects performance",
@@ -898,7 +898,7 @@ export const EventsMocks = {
             "e": 16.769
         },
         "s": 18.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPTAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPTAAAAAAAAAA==/",
         "_etag": "\"ee00fee9-0000-0700-0000-64f2cbb90000\"",
@@ -907,16 +907,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "2d8lk76y8qh",
         "decoded": {
             "commit": "commit b9ccff24180bab8b5d535813953172c20cfca3a3",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 2 07:50:56 2023 +0200",
             "message": "    api fix",
@@ -940,7 +940,7 @@ export const EventsMocks = {
             "e": 11.325
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPUAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPUAAAAAAAAAA==/",
         "_etag": "\"ee00cff1-0000-0700-0000-64f2cd4b0000\"",
@@ -949,16 +949,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "zr0ll9hc1ks",
         "decoded": {
             "commit": "commit b9ccff24180bab8b5d535813953172c20cfca3a3",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 2 07:50:56 2023 +0200",
             "message": "    api fix",
@@ -982,7 +982,7 @@ export const EventsMocks = {
             "e": 16.648
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPVAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPVAAAAAAAAAA==/",
         "_etag": "\"ee00d0f1-0000-0700-0000-64f2cd4b0000\"",
@@ -991,16 +991,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "l4zysy6cd6",
         "decoded": {
             "commit": "commit 9378890f72df690744e3f4d8ae26895602b21802",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 11:13:00 2023 +0200",
             "message": "    trends and calories",
@@ -1026,7 +1026,7 @@ export const EventsMocks = {
             "e": 16.599
         },
         "s": 96.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPXAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPXAAAAAAAAAA==/",
         "_etag": "\"f70045c2-0000-0700-0000-64f44e260000\"",
@@ -1035,16 +1035,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "wwhwpglwj6",
         "decoded": {
             "commit": "commit 69786e9dc3743c72fb5587ab3275590f77b998fa",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 11:13:13 2023 +0200",
             "message": "    prod ready",
@@ -1068,7 +1068,7 @@ export const EventsMocks = {
             "e": 11.915
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPYAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPYAAAAAAAAAA==/",
         "_etag": "\"f70069c2-0000-0700-0000-64f44e310000\"",
@@ -1077,16 +1077,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "honsoeqwxc",
         "decoded": {
             "commit": "commit 69786e9dc3743c72fb5587ab3275590f77b998fa",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 11:13:13 2023 +0200",
             "message": "    prod ready",
@@ -1110,7 +1110,7 @@ export const EventsMocks = {
             "e": 17.252
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPZAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPZAAAAAAAAAA==/",
         "_etag": "\"f7006ac2-0000-0700-0000-64f44e310000\"",
@@ -1119,16 +1119,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "8fe7qifiksa",
         "decoded": {
             "commit": "commit 9947bbd4bf6e31543eeab27deba9c17ff63f8aea",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 18:27:30 2023 +0200",
             "message": "    user  auth",
@@ -1153,7 +1153,7 @@ export const EventsMocks = {
             "e": 16.634
         },
         "s": 2.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPaAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPaAAAAAAAAAA==/",
         "_etag": "\"fa0007ea-0000-0700-0000-64f4b3f40000\"",
@@ -1162,16 +1162,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "p5p7eu9fdzf",
         "decoded": {
             "commit": "commit 9947bbd4bf6e31543eeab27deba9c17ff63f8aea",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 18:27:30 2023 +0200",
             "message": "    user  auth",
@@ -1196,7 +1196,7 @@ export const EventsMocks = {
             "e": 11.699
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPbAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPbAAAAAAAAAA==/",
         "_etag": "\"fa003aea-0000-0700-0000-64f4b3fe0000\"",
@@ -1205,16 +1205,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "kkprcvjyya",
         "decoded": {
             "commit": "commit 1d4f509ab27778f370577654f32a029f951b01ef",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 18:32:02 2023 +0200",
             "message": "    fix",
@@ -1238,7 +1238,7 @@ export const EventsMocks = {
             "e": 15.943999999999999
         },
         "s": 0.2,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPcAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPcAAAAAAAAAA==/",
         "_etag": "\"fa002cf2-0000-0700-0000-64f4b5030000\"",
@@ -1247,16 +1247,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "vrzwe02ygph",
         "decoded": {
             "commit": "commit 1d4f509ab27778f370577654f32a029f951b01ef",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 18:32:02 2023 +0200",
             "message": "    fix",
@@ -1280,7 +1280,7 @@ export const EventsMocks = {
             "e": 10.883
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPdAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPdAAAAAAAAAA==/",
         "_etag": "\"fa005ff2-0000-0700-0000-64f4b50e0000\"",
@@ -1289,17 +1289,17 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "izsfaiidd5b",
         "decoded": {
             "ticket": "AUTH-01",
             "commit": "commit edcd9ba342b4a54d2e39fd25850c51ba450dec27",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 20:26:56 2023 +0200",
             "message": "    AUTH-01 custom jwt auth",
@@ -1324,7 +1324,7 @@ export const EventsMocks = {
             "e": 15.618
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPiAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPiAAAAAAAAAA==/",
         "_etag": "\"ff009e7f-0000-0700-0000-64f4cff60000\"",
@@ -1333,17 +1333,17 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "rj2xfgdab3i",
         "decoded": {
             "ticket": "AUTH-01",
             "commit": "commit edcd9ba342b4a54d2e39fd25850c51ba450dec27",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 20:26:56 2023 +0200",
             "message": "    AUTH-01 custom jwt auth",
@@ -1368,7 +1368,7 @@ export const EventsMocks = {
             "e": 20.498
         },
         "s": 11.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPjAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPjAAAAAAAAAA==/",
         "_etag": "\"ff009f7f-0000-0700-0000-64f4cff60000\"",
@@ -1377,16 +1377,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "l8tqz70qd4",
         "decoded": {
             "commit": "commit ea4c3a76a52dab46dde30ca95dcb7e4020c81975",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 20:27:26 2023 +0200",
             "message": "    fix",
@@ -1410,7 +1410,7 @@ export const EventsMocks = {
             "e": 10.89
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPkAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPkAAAAAAAAAA==/",
         "_etag": "\"ff00fa80-0000-0700-0000-64f4d0150000\"",
@@ -1419,16 +1419,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "0m910q0h3pho",
         "decoded": {
             "commit": "commit ea4c3a76a52dab46dde30ca95dcb7e4020c81975",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 20:27:26 2023 +0200",
             "message": "    fix",
@@ -1452,7 +1452,7 @@ export const EventsMocks = {
             "e": 15.815000000000001
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPlAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPlAAAAAAAAAA==/",
         "_etag": "\"ff000081-0000-0700-0000-64f4d0150000\"",
@@ -1461,16 +1461,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "q7cegye84qj",
         "decoded": {
             "commit": "commit ae8014c196792ef946e32512eb712371e0880e22",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 20:28:46 2023 +0200",
             "message": "    deploy fix",
@@ -1494,7 +1494,7 @@ export const EventsMocks = {
             "e": 12.114
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPmAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPmAAAAAAAAAA==/",
         "_etag": "\"ff004184-0000-0700-0000-64f4d0660000\"",
@@ -1503,16 +1503,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "45qiqhrdnuq",
         "decoded": {
             "commit": "commit ae8014c196792ef946e32512eb712371e0880e22",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 3 20:28:46 2023 +0200",
             "message": "    deploy fix",
@@ -1536,7 +1536,7 @@ export const EventsMocks = {
             "e": 17.438000000000002
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPnAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPnAAAAAAAAAA==/",
         "_etag": "\"ff004284-0000-0700-0000-64f4d0660000\"",
@@ -1545,16 +1545,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "v3llncisqwe",
         "decoded": {
             "commit": "commit 0b34b20bbce6baec9a724f0c6862d2598407206e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 19:53:07 2023 +0200",
             "message": "    trends by project",
@@ -1579,7 +1579,7 @@ export const EventsMocks = {
             "e": 17.512999999999998
         },
         "s": 5.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPsAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPsAAAAAAAAAA==/",
         "_etag": "\"1c00e338-0000-0700-0000-64fb5f860000\"",
@@ -1588,16 +1588,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "qnmx22a8xa",
         "decoded": {
             "commit": "commit 0b34b20bbce6baec9a724f0c6862d2598407206e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 19:53:07 2023 +0200",
             "message": "    trends by project",
@@ -1622,7 +1622,7 @@ export const EventsMocks = {
             "e": 12.497
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPtAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPtAAAAAAAAAA==/",
         "_etag": "\"1c00ee38-0000-0700-0000-64fb5f910000\"",
@@ -1631,16 +1631,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "iik9vcykdt",
         "decoded": {
             "commit": "commit ffce4e9d0ad4661cbc033cc1e038c350d978daee",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 22:38:15 2023 +0200",
             "message": "    cleaning",
@@ -1666,7 +1666,7 @@ export const EventsMocks = {
             "e": 16.39
         },
         "s": 25.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPuAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPuAAAAAAAAAA==/",
         "_etag": "\"1c0037fc-0000-0700-0000-64fb86430000\"",
@@ -1675,16 +1675,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "ggp8zljz3f5",
         "decoded": {
             "commit": "commit c7d38f47d3eb884fe1a98b43f54b36c2a7e82a84",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 22:38:29 2023 +0200",
             "message": "    api url",
@@ -1708,7 +1708,7 @@ export const EventsMocks = {
             "e": 11.582
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPvAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPvAAAAAAAAAA==/",
         "_etag": "\"1c0066fc-0000-0700-0000-64fb864e0000\"",
@@ -1717,16 +1717,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "tvwly6hu9xg",
         "decoded": {
             "commit": "commit c7d38f47d3eb884fe1a98b43f54b36c2a7e82a84",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 22:38:29 2023 +0200",
             "message": "    api url",
@@ -1750,7 +1750,7 @@ export const EventsMocks = {
             "e": 16.917
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPwAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPwAAAAAAAAAA==/",
         "_etag": "\"1c0067fc-0000-0700-0000-64fb864e0000\"",
@@ -1759,16 +1759,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "6rvef31cils",
         "decoded": {
             "commit": "commit 6433fa67eed67bb965659152bfada2ff0c67072c",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 22:41:30 2023 +0200",
             "message": "    fix",
@@ -1792,7 +1792,7 @@ export const EventsMocks = {
             "e": 10.907
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPxAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPxAAAAAAAAAA==/",
         "_etag": "\"1c002fff-0000-0700-0000-64fb87030000\"",
@@ -1801,16 +1801,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "4l57iseni88",
         "decoded": {
             "commit": "commit 6433fa67eed67bb965659152bfada2ff0c67072c",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 22:41:30 2023 +0200",
             "message": "    fix",
@@ -1834,7 +1834,7 @@ export const EventsMocks = {
             "e": 15.767
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPyAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPyAAAAAAAAAA==/",
         "_etag": "\"1c0030ff-0000-0700-0000-64fb87030000\"",
@@ -1843,16 +1843,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "0w0j4rh7ycb9",
         "decoded": {
             "commit": "commit ac2a50625701dc823f38f63e31787cbda0987db7",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 23:01:56 2023 +0200",
             "message": "    fixes",
@@ -1878,7 +1878,7 @@ export const EventsMocks = {
             "e": 11.334999999999999
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILPzAAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILPzAAAAAAAAAA==/",
         "_etag": "\"1d00d617-0000-0700-0000-64fb8bca0000\"",
@@ -1887,16 +1887,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "vz3b5may8n9",
         "decoded": {
             "commit": "commit ac2a50625701dc823f38f63e31787cbda0987db7",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 23:01:56 2023 +0200",
             "message": "    fixes",
@@ -1922,7 +1922,7 @@ export const EventsMocks = {
             "e": 16.214
         },
         "s": 7.9,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILP0AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILP0AAAAAAAAAA==/",
         "_etag": "\"1d00d717-0000-0700-0000-64fb8bca0000\"",
@@ -1931,16 +1931,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "eriq8eb1ub",
         "decoded": {
             "commit": "commit 80dd03fe39f66f211607ed5b2011db0657878cd1",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 23:14:39 2023 +0200",
             "message": "    entropy ma",
@@ -1964,7 +1964,7 @@ export const EventsMocks = {
             "e": 12.187
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILP1AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILP1AAAAAAAAAA==/",
         "_etag": "\"1d003827-0000-0700-0000-64fb8ec50000\"",
@@ -1973,16 +1973,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "76ur7vjinnq",
         "decoded": {
             "commit": "commit 80dd03fe39f66f211607ed5b2011db0657878cd1",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Sep 8 23:14:39 2023 +0200",
             "message": "    entropy ma",
@@ -2006,7 +2006,7 @@ export const EventsMocks = {
             "e": 16.762
         },
         "s": 2.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILP2AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILP2AAAAAAAAAA==/",
         "_etag": "\"1d004127-0000-0700-0000-64fb8ec50000\"",
@@ -2015,16 +2015,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "x7j4tkth3ws",
         "decoded": {
             "commit": "commit e7d020663fbda94726638efae746725f0735766e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 9 11:44:26 2023 +0200",
             "message": "    solid reporting - beta version",
@@ -2050,7 +2050,7 @@ export const EventsMocks = {
             "e": 17.221
         },
         "s": 55.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILP3AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILP3AAAAAAAAAA==/",
         "_etag": "\"20005ec0-0000-0700-0000-64fc3e7e0000\"",
@@ -2059,16 +2059,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "eons9yrnk3k",
         "decoded": {
             "commit": "commit e7d020663fbda94726638efae746725f0735766e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 9 11:44:26 2023 +0200",
             "message": "    solid reporting - beta version",
@@ -2094,7 +2094,7 @@ export const EventsMocks = {
             "e": 12.609
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILP4AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILP4AAAAAAAAAA==/",
         "_etag": "\"20007fc0-0000-0700-0000-64fc3e880000\"",
@@ -2103,16 +2103,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "menqzarflb",
         "decoded": {
             "commit": "commit 39cedc848d816788244f188ca837ae49923362cd",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 9 11:44:41 2023 +0200",
             "message": "    api fix",
@@ -2136,7 +2136,7 @@ export const EventsMocks = {
             "e": 11.195
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILP5AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILP5AAAAAAAAAA==/",
         "_etag": "\"20009cc0-0000-0700-0000-64fc3e930000\"",
@@ -2145,16 +2145,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "uovk23yufsk",
         "decoded": {
             "commit": "commit 39cedc848d816788244f188ca837ae49923362cd",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 9 11:44:41 2023 +0200",
             "message": "    api fix",
@@ -2178,7 +2178,7 @@ export const EventsMocks = {
             "e": 16.524
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILP6AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILP6AAAAAAAAAA==/",
         "_etag": "\"20009dc0-0000-0700-0000-64fc3e930000\"",
@@ -2187,16 +2187,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "ck7mtqvifa4",
         "decoded": {
             "commit": "commit b3dfaf05bf7c237c0551c9daa7c71c6bb25bb1ed",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 9 17:43:44 2023 +0200",
             "message": "    jwt signing - wip",
@@ -2221,7 +2221,7 @@ export const EventsMocks = {
             "e": 16.630000000000003
         },
         "s": 14,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILP8AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILP8AAAAAAAAAA==/",
         "_etag": "\"2200de86-0000-0700-0000-64fc92b80000\"",
@@ -2230,16 +2230,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "hz6jkygob1i",
         "decoded": {
             "commit": "commit 9e18093ef10657346ebacd121590c3844112de56",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 9 17:44:51 2023 +0200",
             "message": "    signing + auth - wip1",
@@ -2263,7 +2263,7 @@ export const EventsMocks = {
             "e": 17.68
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILP9AAAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILP9AAAAAAAAAA==/",
         "_etag": "\"22008f87-0000-0700-0000-64fc92f50000\"",
@@ -2272,16 +2272,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "tx262j8hp2p",
         "decoded": {
             "commit": "commit d2e166140d9011b09a58083fa57d61ad7d5df5d2",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 08:56:46 2023 +0200",
             "message": "    login - wip",
@@ -2307,7 +2307,7 @@ export const EventsMocks = {
             "e": 16.061
         },
         "s": 39.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMFAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMFAQAAAAAAAA==/",
         "_etag": "\"26006fc2-0000-0700-0000-64fd695d0000\"",
@@ -2316,16 +2316,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "c8egy5sy3gj",
         "decoded": {
             "commit": "commit a34a4af6aa192440b32b49f7c68e82d603544192",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 07:11:09 2023 +0200",
             "message": "    api",
@@ -2349,7 +2349,7 @@ export const EventsMocks = {
             "e": 10.897
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMGAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMGAQAAAAAAAA==/",
         "_etag": "\"260070c2-0000-0700-0000-64fd695d0000\"",
@@ -2358,16 +2358,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "kixfbfmmm9j",
         "decoded": {
             "commit": "commit a34a4af6aa192440b32b49f7c68e82d603544192",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 07:11:09 2023 +0200",
             "message": "    api",
@@ -2391,7 +2391,7 @@ export const EventsMocks = {
             "e": 16.216
         },
         "s": 0.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMHAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMHAQAAAAAAAA==/",
         "_etag": "\"260071c2-0000-0700-0000-64fd695d0000\"",
@@ -2400,16 +2400,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "5hsdx0uf91s",
         "decoded": {
             "commit": "commit b4ddef78e1c0a8deeb37e6d87f7fbb0103c22abf",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 10:26:56 2023 +0200",
             "message": "    login and early beta",
@@ -2435,7 +2435,7 @@ export const EventsMocks = {
             "e": 16.834
         },
         "s": 7.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMIAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMIAQAAAAAAAA==/",
         "_etag": "\"2600a5fc-0000-0700-0000-64fd7dd90000\"",
@@ -2444,16 +2444,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "t83oa9sv9v",
         "decoded": {
             "commit": "commit 298d180662c40e99e0bc391a6754ebaefac32658",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 10:31:13 2023 +0200",
             "message": "    login - auto log out",
@@ -2478,7 +2478,7 @@ export const EventsMocks = {
             "e": 17.114
         },
         "s": 4.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMJAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMJAQAAAAAAAA==/",
         "_etag": "\"2600c2fe-0000-0700-0000-64fd7ed40000\"",
@@ -2487,16 +2487,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "qo31jfjvoa",
         "decoded": {
             "commit": "commit 298d180662c40e99e0bc391a6754ebaefac32658",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 10:31:13 2023 +0200",
             "message": "    login - auto log out",
@@ -2521,7 +2521,7 @@ export const EventsMocks = {
             "e": 12.178
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMKAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMKAQAAAAAAAA==/",
         "_etag": "\"2600c7fe-0000-0700-0000-64fd7edf0000\"",
@@ -2530,16 +2530,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "u622f4veqp9",
         "decoded": {
             "commit": "commit 92fc9efd6cdf1f039a3642b4a914184be1900bb5",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 10:39:18 2023 +0200",
             "message": "    fix for labels",
@@ -2563,7 +2563,7 @@ export const EventsMocks = {
             "e": 12.279
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMLAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMLAQAAAAAAAA==/",
         "_etag": "\"27003000-0000-0700-0000-64fd80c00000\"",
@@ -2572,16 +2572,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "nyleyi26my",
         "decoded": {
             "commit": "commit 92fc9efd6cdf1f039a3642b4a914184be1900bb5",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 10:39:18 2023 +0200",
             "message": "    fix for labels",
@@ -2605,7 +2605,7 @@ export const EventsMocks = {
             "e": 16.924
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMMAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMMAQAAAAAAAA==/",
         "_etag": "\"27003100-0000-0700-0000-64fd80c10000\"",
@@ -2614,16 +2614,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "b4ankbsnvok",
         "decoded": {
             "commit": "commit b01239981d640f82afabf38e10994ff8c7422e0d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 11:04:48 2023 +0200",
             "message": "    layout fix",
@@ -2647,7 +2647,7 @@ export const EventsMocks = {
             "e": 15.836
         },
         "s": 10.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMNAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMNAQAAAAAAAA==/",
         "_etag": "\"2700ba13-0000-0700-0000-64fd86b50000\"",
@@ -2656,16 +2656,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "g79z46bki4p",
         "decoded": {
             "commit": "commit b01239981d640f82afabf38e10994ff8c7422e0d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 11:04:48 2023 +0200",
             "message": "    layout fix",
@@ -2689,7 +2689,7 @@ export const EventsMocks = {
             "e": 12.026
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMOAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMOAQAAAAAAAA==/",
         "_etag": "\"2700be13-0000-0700-0000-64fd86c00000\"",
@@ -2698,16 +2698,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "wnqqjlbbozp",
         "decoded": {
             "commit": "commit 5f8808fb164fc2142a35e1ed27c39f9159bc1740",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 15:15:50 2023 +0200",
             "message": "    tweaks",
@@ -2733,7 +2733,7 @@ export const EventsMocks = {
             "e": 16.692999999999998
         },
         "s": 1.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMPAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMPAQAAAAAAAA==/",
         "_etag": "\"27006fbf-0000-0700-0000-64fdc18b0000\"",
@@ -2742,16 +2742,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "i8coty74gnp",
         "decoded": {
             "commit": "commit bf63100d2f00db2c68c084d4ea0699ca33246c89",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 15:16:00 2023 +0200",
             "message": "    api",
@@ -2775,7 +2775,7 @@ export const EventsMocks = {
             "e": 16.097
         },
         "s": 0.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMQAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMQAQAAAAAAAA==/",
         "_etag": "\"270095bf-0000-0700-0000-64fdc1950000\"",
@@ -2784,16 +2784,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "i7d57rxrkl",
         "decoded": {
             "commit": "commit bf63100d2f00db2c68c084d4ea0699ca33246c89",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 15:16:00 2023 +0200",
             "message": "    api",
@@ -2817,7 +2817,7 @@ export const EventsMocks = {
             "e": 10.786
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMRAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMRAQAAAAAAAA==/",
         "_etag": "\"2700ccbf-0000-0700-0000-64fdc1a00000\"",
@@ -2826,16 +2826,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "zfcim35rqw8",
         "decoded": {
             "commit": "commit 3f0c77b78050c6ce673ddb3b4d0eeddd2e5146bc",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 16:32:57 2023 +0200",
             "message": "    add project - wip",
@@ -2862,7 +2862,7 @@ export const EventsMocks = {
             "e": 15.825000000000003
         },
         "s": 88.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMUAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMUAQAAAAAAAA==/",
         "_etag": "\"270092f7-0000-0700-0000-64fdd39c0000\"",
@@ -2871,16 +2871,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "toc3rvpnsw",
         "decoded": {
             "commit": "commit 3f0c77b78050c6ce673ddb3b4d0eeddd2e5146bc",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 16:32:57 2023 +0200",
             "message": "    add project - wip",
@@ -2907,7 +2907,7 @@ export const EventsMocks = {
             "e": 11.766000000000002
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMVAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMVAQAAAAAAAA==/",
         "_etag": "\"2700e3f7-0000-0700-0000-64fdd3a70000\"",
@@ -2916,16 +2916,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "1jgywnfwxy5",
         "decoded": {
             "commit": "commit 9bf836342ff804ef0466f024850e9a3ddb5e0da8",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 17:50:00 2023 +0200",
             "message": "    projects and participants",
@@ -2950,7 +2950,7 @@ export const EventsMocks = {
             "e": 16.909999999999997
         },
         "s": 5.1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMWAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMWAQAAAAAAAA==/",
         "_etag": "\"28001d30-0000-0700-0000-64fde5b40000\"",
@@ -2959,16 +2959,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "mbx4ew9oxg",
         "decoded": {
             "commit": "commit c97098b33ed6b6fc3e6745e15b581a0312b8aa42",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 18:11:11 2023 +0200",
             "message": "    onboarding - invitations",
@@ -2993,7 +2993,7 @@ export const EventsMocks = {
             "e": 17.355
         },
         "s": 7.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMXAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMXAQAAAAAAAA==/",
         "_etag": "\"2800bc3f-0000-0700-0000-64fdeaaa0000\"",
@@ -3002,16 +3002,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "8fdu1kt87os",
         "decoded": {
             "commit": "commit e711b973bafe87d770a2e7453cc61da1ea303bb8",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 18:11:21 2023 +0200",
             "message": "    api fix",
@@ -3035,7 +3035,7 @@ export const EventsMocks = {
             "e": 16.713
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMYAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMYAQAAAAAAAA==/",
         "_etag": "\"2800f53f-0000-0700-0000-64fdeab50000\"",
@@ -3044,16 +3044,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "41uahutn6ve",
         "decoded": {
             "commit": "commit e711b973bafe87d770a2e7453cc61da1ea303bb8",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 10 18:11:21 2023 +0200",
             "message": "    api fix",
@@ -3077,7 +3077,7 @@ export const EventsMocks = {
             "e": 11.413
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMaAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMaAQAAAAAAAA==/",
         "_etag": "\"28006541-0000-0700-0000-64fdeafd0000\"",
@@ -3086,16 +3086,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "vzdztzf5ww",
         "decoded": {
             "commit": "commit e2535ed746f04bade7ee8b55b58d80bcf8534a1d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 09:58:31 2023 +0200",
             "message": "    fix for session expiration",
@@ -3119,7 +3119,7 @@ export const EventsMocks = {
             "e": 12.486999999999998
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMbAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMbAQAAAAAAAA==/",
         "_etag": "\"2b00856d-0000-0700-0000-64fec8af0000\"",
@@ -3128,16 +3128,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "udysjyehta",
         "decoded": {
             "commit": "commit e2535ed746f04bade7ee8b55b58d80bcf8534a1d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 09:58:31 2023 +0200",
             "message": "    fix for session expiration",
@@ -3161,7 +3161,7 @@ export const EventsMocks = {
             "e": 17.433
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMcAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMcAQAAAAAAAA==/",
         "_etag": "\"2b00876d-0000-0700-0000-64fec8af0000\"",
@@ -3170,16 +3170,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "35vkwogn0e8",
         "decoded": {
             "commit": "commit d76d0a8c96cc8b3d4585d837a167778b8ab7e244",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 10:31:39 2023 +0200",
             "message": "    fix for navigation menu",
@@ -3203,7 +3203,7 @@ export const EventsMocks = {
             "e": 12.614999999999998
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMdAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMdAQAAAAAAAA==/",
         "_etag": "\"2b003684-0000-0700-0000-64fed0740000\"",
@@ -3212,16 +3212,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "5l4wzfdwbbw",
         "decoded": {
             "commit": "commit d76d0a8c96cc8b3d4585d837a167778b8ab7e244",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 10:31:39 2023 +0200",
             "message": "    fix for navigation menu",
@@ -3245,7 +3245,7 @@ export const EventsMocks = {
             "e": 16.544999999999998
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMeAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMeAQAAAAAAAA==/",
         "_etag": "\"2b003884-0000-0700-0000-64fed0740000\"",
@@ -3254,16 +3254,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "db3n4rui4o4",
         "decoded": {
             "commit": "commit 09868706f1051bbc758357e756cb8d2651f913d3",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 10:41:20 2023 +0200",
             "message": "    fix for mobile menu",
@@ -3290,7 +3290,7 @@ export const EventsMocks = {
             "e": 12.043
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMfAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMfAQAAAAAAAA==/",
         "_etag": "\"2b000396-0000-0700-0000-64fed2ba0000\"",
@@ -3299,16 +3299,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "w8gszyhgq1h",
         "decoded": {
             "commit": "commit 09868706f1051bbc758357e756cb8d2651f913d3",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 10:41:20 2023 +0200",
             "message": "    fix for mobile menu",
@@ -3335,7 +3335,7 @@ export const EventsMocks = {
             "e": 16.658
         },
         "s": 6.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMgAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMgAQAAAAAAAA==/",
         "_etag": "\"2b000496-0000-0700-0000-64fed2ba0000\"",
@@ -3344,16 +3344,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "s5cp1o54e1d",
         "decoded": {
             "commit": "commit 4101da46782c6e8eec04fe4381597758fb7f141f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 12:58:27 2023 +0200",
             "message": "    onboarding working",
@@ -3379,7 +3379,7 @@ export const EventsMocks = {
             "e": 16.468
         },
         "s": 27.2,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMhAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMhAQAAAAAAAA==/",
         "_etag": "\"2c005e66-0000-0700-0000-64fef2db0000\"",
@@ -3388,16 +3388,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "a1pekqsonyf",
         "decoded": {
             "commit": "commit 4101da46782c6e8eec04fe4381597758fb7f141f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 12:58:27 2023 +0200",
             "message": "    onboarding working",
@@ -3423,7 +3423,7 @@ export const EventsMocks = {
             "e": 11.995
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMjAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMjAQAAAAAAAA==/",
         "_etag": "\"2c007d68-0000-0700-0000-64fef3230000\"",
@@ -3432,16 +3432,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "c0l0basnbb",
         "decoded": {
             "commit": "commit 28f70900825e9ac184b31c029fab99003ef3f02c",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 13:03:09 2023 +0200",
             "message": "    fix",
@@ -3465,7 +3465,7 @@ export const EventsMocks = {
             "e": 10.718
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMkAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMkAQAAAAAAAA==/",
         "_etag": "\"2c002a6c-0000-0700-0000-64fef3f70000\"",
@@ -3474,16 +3474,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "c7g5zvjgq5w",
         "decoded": {
             "commit": "commit 28f70900825e9ac184b31c029fab99003ef3f02c",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 13:03:09 2023 +0200",
             "message": "    fix",
@@ -3507,7 +3507,7 @@ export const EventsMocks = {
             "e": 15.833
         },
         "s": 0.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMlAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMlAQAAAAAAAA==/",
         "_etag": "\"2c002b6c-0000-0700-0000-64fef3f70000\"",
@@ -3516,16 +3516,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "9ijuttj8jba",
         "decoded": {
             "commit": "commit 73a04af787185077a358aaf113db90c97b287648",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 13:21:46 2023 +0200",
             "message": "    minor functional tweaks",
@@ -3550,7 +3550,7 @@ export const EventsMocks = {
             "e": 12.863
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMmAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMmAQAAAAAAAA==/",
         "_etag": "\"2c00c083-0000-0700-0000-64fef8500000\"",
@@ -3559,16 +3559,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "9ega4duhl0k",
         "decoded": {
             "commit": "commit 73a04af787185077a358aaf113db90c97b287648",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 13:21:46 2023 +0200",
             "message": "    minor functional tweaks",
@@ -3593,7 +3593,7 @@ export const EventsMocks = {
             "e": 17.822
         },
         "s": 1.2,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMnAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMnAQAAAAAAAA==/",
         "_etag": "\"2c00c183-0000-0700-0000-64fef8500000\"",
@@ -3602,16 +3602,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "yty55pccp5",
         "decoded": {
             "commit": "commit c853293b27c22dac52149040a5390df72f82530f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 13:36:30 2023 +0200",
             "message": "    increment and change reporting",
@@ -3636,7 +3636,7 @@ export const EventsMocks = {
             "e": 16.819
         },
         "s": 3.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMoAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMoAQAAAAAAAA==/",
         "_etag": "\"2c00fba6-0000-0700-0000-64fefbc40000\"",
@@ -3645,16 +3645,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "bl23wj06k7v",
         "decoded": {
             "commit": "commit e3abc47fb317225df650eccceb826122392cb923",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 13:42:03 2023 +0200",
             "message": "    today present",
@@ -3679,7 +3679,7 @@ export const EventsMocks = {
             "e": 16.644
         },
         "s": 2.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMpAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMpAQAAAAAAAA==/",
         "_etag": "\"2c0016ac-0000-0700-0000-64fefd120000\"",
@@ -3688,16 +3688,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "2chb7y5trna",
         "decoded": {
             "commit": "commit 3542f09ca14579a76802e170e46aa78b49a2853d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 13:43:05 2023 +0200",
             "message": "    wording tweaks",
@@ -3722,7 +3722,7 @@ export const EventsMocks = {
             "e": 17.245
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMqAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMqAQAAAAAAAA==/",
         "_etag": "\"2c00c9ac-0000-0700-0000-64fefd4f0000\"",
@@ -3731,16 +3731,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "wo6mzapcab",
         "decoded": {
             "commit": "commit 3542f09ca14579a76802e170e46aa78b49a2853d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 13:43:05 2023 +0200",
             "message": "    wording tweaks",
@@ -3765,7 +3765,7 @@ export const EventsMocks = {
             "e": 12.737000000000002
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMrAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMrAQAAAAAAAA==/",
         "_etag": "\"2d00d422-0000-0700-0000-64ff10240000\"",
@@ -3774,16 +3774,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "0ecaxokawnxb",
         "decoded": {
             "commit": "commit 1e6f2554338597bfe8dcb9314e123e6a9986e1a2",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 15:19:50 2023 +0200",
             "message": "    wording fixes",
@@ -3808,7 +3808,7 @@ export const EventsMocks = {
             "e": 17.037
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMsAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMsAQAAAAAAAA==/",
         "_etag": "\"2d003c33-0000-0700-0000-64ff13fb0000\"",
@@ -3817,16 +3817,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "imzvu0lhd98",
         "decoded": {
             "commit": "commit 1e6f2554338597bfe8dcb9314e123e6a9986e1a2",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 15:19:50 2023 +0200",
             "message": "    wording fixes",
@@ -3851,7 +3851,7 @@ export const EventsMocks = {
             "e": 12.518999999999998
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMtAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMtAQAAAAAAAA==/",
         "_etag": "\"2d005733-0000-0700-0000-64ff14050000\"",
@@ -3860,16 +3860,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "gccyzuojbr",
         "decoded": {
             "commit": "commit 42dec13a1b6f2de4cd70db5dc3484095eda85678",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 15:28:57 2023 +0200",
             "message": "    tweaks",
@@ -3893,7 +3893,7 @@ export const EventsMocks = {
             "e": 11.719000000000001
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMuAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMuAQAAAAAAAA==/",
         "_etag": "\"2d00863f-0000-0700-0000-64ff16230000\"",
@@ -3902,16 +3902,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "c4nec9448t6",
         "decoded": {
             "commit": "commit 42dec13a1b6f2de4cd70db5dc3484095eda85678",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 15:28:57 2023 +0200",
             "message": "    tweaks",
@@ -3935,7 +3935,7 @@ export const EventsMocks = {
             "e": 15.094000000000001
         },
         "s": 7.2,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMvAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMvAQAAAAAAAA==/",
         "_etag": "\"2d00873f-0000-0700-0000-64ff16230000\"",
@@ -3944,16 +3944,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "nyipf8yb0b",
         "decoded": {
             "commit": "commit 8dc5766d96b533c1ef107ff5f76a30d2d7a4c72e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 19:32:59 2023 +0200",
             "message": "    tweaks and fixes",
@@ -3979,7 +3979,7 @@ export const EventsMocks = {
             "e": 16.671
         },
         "s": 20.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMwAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMwAQAAAAAAAA==/",
         "_etag": "\"2e00ecd0-0000-0700-0000-64ff4f4f0000\"",
@@ -3988,16 +3988,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "29qbtyw7e1c",
         "decoded": {
             "commit": "commit 8dc5766d96b533c1ef107ff5f76a30d2d7a4c72e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 19:32:59 2023 +0200",
             "message": "    tweaks and fixes",
@@ -4023,7 +4023,7 @@ export const EventsMocks = {
             "e": 12.143999999999998
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMxAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMxAQAAAAAAAA==/",
         "_etag": "\"2e00cfd2-0000-0700-0000-64ff4f8c0000\"",
@@ -4032,16 +4032,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "8u4qkg6flxb",
         "decoded": {
             "commit": "commit 922a9df4e3178180325d5d4dbce07674edaad8d3",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 19:38:04 2023 +0200",
             "message": "    fix for legend when only one person",
@@ -4065,7 +4065,7 @@ export const EventsMocks = {
             "e": 12.708
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMyAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMyAQAAAAAAAA==/",
         "_etag": "\"2e005fdb-0000-0700-0000-64ff50870000\"",
@@ -4074,16 +4074,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "n8xmvl2msde",
         "decoded": {
             "commit": "commit 922a9df4e3178180325d5d4dbce07674edaad8d3",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Sep 11 19:38:04 2023 +0200",
             "message": "    fix for legend when only one person",
@@ -4107,7 +4107,7 @@ export const EventsMocks = {
             "e": 17.429000000000002
         },
         "s": 0.2,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMzAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMzAQAAAAAAAA==/",
         "_etag": "\"2e0061db-0000-0700-0000-64ff50870000\"",
@@ -4116,16 +4116,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "dmq1s602d1h",
         "decoded": {
             "commit": "commit e086b057bdf6502d076a16dab560a08375100ae4",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 15:07:41 2023 +0200",
             "message": "    wip",
@@ -4149,7 +4149,7 @@ export const EventsMocks = {
             "e": 15.919
         },
         "s": 0.2,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNOAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNOAQAAAAAAAA==/",
         "_etag": "\"7a03fa3d-0000-0700-0000-651034a60000\"",
@@ -4158,16 +4158,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "uipano1joq8",
         "decoded": {
             "commit": "commit 1a670072158dc44f3d40b2f89b6877427b6e71ea",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:26:49 2023 +0200",
             "message": "    docs update",
@@ -4191,7 +4191,7 @@ export const EventsMocks = {
             "e": 17.130000000000003
         },
         "s": 2.1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNTAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNTAQAAAAAAAA==/",
         "_etag": "\"7d0376d3-0000-0700-0000-651055450000\"",
@@ -4200,16 +4200,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "cg429rf3hjb",
         "decoded": {
             "commit": "commit e6cac3fa88ba29dbf599eeb72346361726000b59",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:33:19 2023 +0200",
             "message": "    ma trends using components",
@@ -4234,7 +4234,7 @@ export const EventsMocks = {
             "e": 17.865000000000002
         },
         "s": 2,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNUAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNUAQAAAAAAAA==/",
         "_etag": "\"7d03cefd-0000-0700-0000-651056c40000\"",
@@ -4243,16 +4243,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "3ncx1eftsm4",
         "decoded": {
             "commit": "commit c98b3bd99a6b8ac3ad49537c607e75659ef1a46d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:42:10 2023 +0200",
             "message": "    plots using components",
@@ -4277,7 +4277,7 @@ export const EventsMocks = {
             "e": 17.555
         },
         "s": 3.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNVAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNVAQAAAAAAAA==/",
         "_etag": "\"7e030236-0000-0700-0000-651058da0000\"",
@@ -4286,16 +4286,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "utc606bx5t",
         "decoded": {
             "commit": "commit ebb866ea0e09aa2f3b6c2d295f52ce6c8a7ef333",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:42:24 2023 +0200",
             "message": "    ready for production launch",
@@ -4319,7 +4319,7 @@ export const EventsMocks = {
             "e": 18.118000000000002
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNWAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNWAQAAAAAAAA==/",
         "_etag": "\"7e030037-0000-0700-0000-651058e50000\"",
@@ -4328,16 +4328,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "jfej63sg6ib",
         "decoded": {
             "commit": "commit 183f386e88a15e85b114cac11f5cbb79059ff126",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:42:42 2023 +0200",
             "message": "    fix",
@@ -4361,7 +4361,7 @@ export const EventsMocks = {
             "e": 15.847000000000001
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNXAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNXAQAAAAAAAA==/",
         "_etag": "\"7e031a39-0000-0700-0000-651058f90000\"",
@@ -4370,16 +4370,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "0076pl0wwqmwu",
         "decoded": {
             "commit": "commit 183f386e88a15e85b114cac11f5cbb79059ff126",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:42:42 2023 +0200",
             "message": "    fix",
@@ -4403,7 +4403,7 @@ export const EventsMocks = {
             "e": 10.788
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNYAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNYAQAAAAAAAA==/",
         "_etag": "\"7e03303a-0000-0700-0000-651059040000\"",
@@ -4412,16 +4412,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "03zoovyro7jz",
         "decoded": {
             "commit": "commit f58dec8a0e8a8eab013fbb651f26179e34ec82b5",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:50:29 2023 +0200",
             "message": "    busy indicator when logging fix",
@@ -4448,7 +4448,7 @@ export const EventsMocks = {
             "e": 17.939999999999998
         },
         "s": 2.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNZAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNZAQAAAAAAAA==/",
         "_etag": "\"7e030769-0000-0700-0000-65105ac80000\"",
@@ -4457,16 +4457,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "6d4rijkyu6i",
         "decoded": {
             "commit": "commit 7f3ed3fe39c9e5b4cd3d4a82fe51915890c3b0ed",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:50:39 2023 +0200",
             "message": "    api fix",
@@ -4490,7 +4490,7 @@ export const EventsMocks = {
             "e": 11.421
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNaAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNaAQAAAAAAAA==/",
         "_etag": "\"7e03336a-0000-0700-0000-65105ad20000\"",
@@ -4499,16 +4499,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "2v29e68iz7h",
         "decoded": {
             "commit": "commit 7f3ed3fe39c9e5b4cd3d4a82fe51915890c3b0ed",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:50:39 2023 +0200",
             "message": "    api fix",
@@ -4532,7 +4532,7 @@ export const EventsMocks = {
             "e": 16.73
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNbAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNbAQAAAAAAAA==/",
         "_etag": "\"7e03396a-0000-0700-0000-65105ad20000\"",
@@ -4541,16 +4541,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "zinsy4jhs7i",
         "decoded": {
             "commit": "commit f58dec8a0e8a8eab013fbb651f26179e34ec82b5",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 17:50:29 2023 +0200",
             "message": "    busy indicator when logging fix",
@@ -4577,7 +4577,7 @@ export const EventsMocks = {
             "e": 13.014
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNcAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNcAQAAAAAAAA==/",
         "_etag": "\"7e033a6a-0000-0700-0000-65105ad20000\"",
@@ -4586,16 +4586,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "w1dxmjotu9d",
         "decoded": {
             "commit": "commit 0aa06374b7b5c76f9f3157692ffb04219ff7cd61",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 18:13:15 2023 +0200",
             "message": "    adding project busy/modal fixes",
@@ -4619,7 +4619,7 @@ export const EventsMocks = {
             "e": 18.131
         },
         "s": 4.5,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNeAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNeAQAAAAAAAA==/",
         "_etag": "\"7f031b04-0000-0700-0000-6510601e0000\"",
@@ -4628,16 +4628,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "nrdgh4lyg7c",
         "decoded": {
             "commit": "commit 0aa06374b7b5c76f9f3157692ffb04219ff7cd61",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Sep 24 18:13:15 2023 +0200",
             "message": "    adding project busy/modal fixes",
@@ -4661,7 +4661,7 @@ export const EventsMocks = {
             "e": 13.357
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNfAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNfAQAAAAAAAA==/",
         "_etag": "\"7f031405-0000-0700-0000-651060280000\"",
@@ -4670,16 +4670,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "147ct824r00c",
         "decoded": {
             "commit": "commit f23cb43d0b385cd135cce0b2c63fa9c494714b4d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Sep 30 16:51:51 2023 +0200",
             "message": "    wip",
@@ -4706,7 +4706,7 @@ export const EventsMocks = {
             "e": 14.726
         },
         "s": 61.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNiAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNiAQAAAAAAAA==/",
         "_etag": "\"3e00df7a-0000-0700-0000-651836130000\"",
@@ -4715,16 +4715,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "ipqn8phrppi",
         "decoded": {
             "commit": "commit 80db8a3de0980abfe40a2cc73af4407759ef86ec",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Oct 11 16:25:43 2023 +0200",
             "message": "    fix for window time alignement",
@@ -4750,7 +4750,7 @@ export const EventsMocks = {
             "e": 17.51
         },
         "s": 9.1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOCAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOCAQAAAAAAAA==/",
         "_etag": "\"ea00b769-0000-0700-0000-6526b0690000\"",
@@ -4759,16 +4759,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "sairkxdp0z",
         "decoded": {
             "commit": "commit 80db8a3de0980abfe40a2cc73af4407759ef86ec",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Oct 11 16:25:43 2023 +0200",
             "message": "    fix for window time alignement",
@@ -4794,7 +4794,7 @@ export const EventsMocks = {
             "e": 12.525
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILODAQAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILODAQAAAAAAAA==/",
         "_etag": "\"ea00326a-0000-0700-0000-6526b0730000\"",
@@ -4803,16 +4803,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "jnhte1ee99",
         "decoded": {
             "commit": "commit c7fd1fda2238ee4853348aebf1d4b92c95e178ad",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Nov 29 22:50:22 2023 +0100",
             "message": "    invite manager - wip",
@@ -4840,7 +4840,7 @@ export const EventsMocks = {
             "e": 16.656
         },
         "s": 17,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILMyAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILMyAgAAAAAAAA==/",
         "_etag": "\"960c005f-0000-0700-0000-6567b2270000\"",
@@ -4849,16 +4849,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "ewulirqlxso",
         "decoded": {
             "commit": "commit bbe10819495756b9063be10ce4f0f3dd74249c88",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Dec 1 19:42:01 2023 +0100",
             "message": "    priviledges to account, roles , inviting, manager",
@@ -4886,7 +4886,7 @@ export const EventsMocks = {
             "e": 17.232
         },
         "s": 10.5,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILM3AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILM3AgAAAAAAAA==/",
         "_etag": "\"270df16c-0000-0700-0000-656a29030000\"",
@@ -4895,16 +4895,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "qpltwf6iov",
         "decoded": {
             "commit": "commit bbe10819495756b9063be10ce4f0f3dd74249c88",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Dec 1 19:42:01 2023 +0100",
             "message": "    priviledges to account, roles , inviting, manager",
@@ -4932,7 +4932,7 @@ export const EventsMocks = {
             "e": 12.745000000000001
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILM5AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILM5AgAAAAAAAA==/",
         "_etag": "\"2c0d4c8b-0000-0700-0000-656a37d60000\"",
@@ -4941,16 +4941,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "msarlabr2u",
         "decoded": {
             "commit": "commit feb5a295ff7bbcc423f5c746d6a8558b77b96921",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Dec 1 20:49:48 2023 +0100",
             "message": "    api url",
@@ -4974,7 +4974,7 @@ export const EventsMocks = {
             "e": 11.633
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILM6AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILM6AgAAAAAAAA==/",
         "_etag": "\"2c0d03dd-0000-0700-0000-656a38e60000\"",
@@ -4983,16 +4983,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "e5xu2khtl5a",
         "decoded": {
             "commit": "commit feb5a295ff7bbcc423f5c746d6a8558b77b96921",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Fri Dec 1 20:49:48 2023 +0100",
             "message": "    api url",
@@ -5016,7 +5016,7 @@ export const EventsMocks = {
             "e": 16.968
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILM7AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILM7AgAAAAAAAA==/",
         "_etag": "\"2c0d10dd-0000-0700-0000-656a38e60000\"",
@@ -5025,16 +5025,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "ugdbu3rvtgm",
         "decoded": {
             "commit": "commit fdf56571c83c030846e8cea670574729cb2f0e12",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 12:56:14 2023 +0100",
             "message": "    fix",
@@ -5060,7 +5060,7 @@ export const EventsMocks = {
             "e": 10.658999999999999
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILM8AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILM8AgAAAAAAAA==/",
         "_etag": "\"0000ca48-0000-0700-0000-656b1b690000\"",
@@ -5069,16 +5069,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "zoo26k6ptfa",
         "decoded": {
             "commit": "commit fdf56571c83c030846e8cea670574729cb2f0e12",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 12:56:14 2023 +0100",
             "message": "    fix",
@@ -5104,7 +5104,7 @@ export const EventsMocks = {
             "e": 15.604999999999999
         },
         "s": 10.9,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILM9AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILM9AgAAAAAAAA==/",
         "_etag": "\"0000cb48-0000-0700-0000-656b1b6a0000\"",
@@ -5113,16 +5113,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "xmng2xr5usp",
         "decoded": {
             "commit": "commit d4e8a1e828a064bdb2ca3817ccb69fccf7e3647b",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 13:15:41 2023 +0100",
             "message": "    labeling",
@@ -5150,7 +5150,7 @@ export const EventsMocks = {
             "e": 11.582
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILM+AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILM+AgAAAAAAAA==/",
         "_etag": "\"0000604f-0000-0700-0000-656b1ff30000\"",
@@ -5159,16 +5159,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "784tkkc9hbf",
         "decoded": {
             "commit": "commit d4e8a1e828a064bdb2ca3817ccb69fccf7e3647b",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 13:15:41 2023 +0100",
             "message": "    labeling",
@@ -5196,7 +5196,7 @@ export const EventsMocks = {
             "e": 15.902000000000001
         },
         "s": 4.5,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILM-AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILM-AgAAAAAAAA==/",
         "_etag": "\"0000614f-0000-0700-0000-656b1ff30000\"",
@@ -5205,16 +5205,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "f56ohdw6q9o",
         "decoded": {
             "commit": "commit 96feef6f2a547764179341e0e627acb8f216ae3e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 14:03:48 2023 +0100",
             "message": "    fix",
@@ -5241,7 +5241,7 @@ export const EventsMocks = {
             "e": 10.716999999999999
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNAAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNAAgAAAAAAAA==/",
         "_etag": "\"0000f55b-0000-0700-0000-656b2b3d0000\"",
@@ -5250,16 +5250,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "di15ytx3lql",
         "decoded": {
             "commit": "commit 96feef6f2a547764179341e0e627acb8f216ae3e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 14:03:48 2023 +0100",
             "message": "    fix",
@@ -5286,7 +5286,7 @@ export const EventsMocks = {
             "e": 15.697999999999999
         },
         "s": 1.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNBAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNBAgAAAAAAAA==/",
         "_etag": "\"0000f65b-0000-0700-0000-656b2b3d0000\"",
@@ -5295,16 +5295,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "ire6zbxm15d",
         "decoded": {
             "commit": "commit c07dbfbf10ddc49d3af36d231965a3b52318320e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 14:04:38 2023 +0100",
             "message": "    wording",
@@ -5328,7 +5328,7 @@ export const EventsMocks = {
             "e": 12.012
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNCAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNCAgAAAAAAAA==/",
         "_etag": "\"0000475c-0000-0700-0000-656b2b700000\"",
@@ -5337,16 +5337,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "7tkp56vmkdh",
         "decoded": {
             "commit": "commit c07dbfbf10ddc49d3af36d231965a3b52318320e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 14:04:38 2023 +0100",
             "message": "    wording",
@@ -5370,7 +5370,7 @@ export const EventsMocks = {
             "e": 16.47
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNDAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNDAgAAAAAAAA==/",
         "_etag": "\"0000485c-0000-0700-0000-656b2b700000\"",
@@ -5379,16 +5379,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "0la9gx1znemj",
         "decoded": {
             "commit": "commit 0ea301014e9be5bc359d781ab6d563b6e019558e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 20:16:26 2023 +0100",
             "message": "    switch accounts - wip",
@@ -5417,7 +5417,7 @@ export const EventsMocks = {
             "e": 16.829
         },
         "s": 20,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNEAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNEAgAAAAAAAA==/",
         "_etag": "\"0000f9cb-0000-0700-0000-656b82950000\"",
@@ -5426,16 +5426,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "2aqmqhiw6ku",
         "decoded": {
             "commit": "commit dca5ddafad9e642b8d6185bd50cdc6d704289718",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 20:20:46 2023 +0100",
             "message": "    presenting selected account",
@@ -5461,7 +5461,7 @@ export const EventsMocks = {
             "e": 17.227
         },
         "s": 1.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNFAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNFAgAAAAAAAA==/",
         "_etag": "\"0000bdcc-0000-0700-0000-656b83920000\"",
@@ -5470,16 +5470,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "45cc4scwplo",
         "decoded": {
             "commit": "commit e96736b8938bad823295c05531da86f8b0dd483a",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 20:20:58 2023 +0100",
             "message": "    api url",
@@ -5503,7 +5503,7 @@ export const EventsMocks = {
             "e": 11.654
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNGAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNGAgAAAAAAAA==/",
         "_etag": "\"0000d3cc-0000-0700-0000-656b83a60000\"",
@@ -5512,16 +5512,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "7sllgmad39g",
         "decoded": {
             "commit": "commit e96736b8938bad823295c05531da86f8b0dd483a",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 20:20:58 2023 +0100",
             "message": "    api url",
@@ -5545,7 +5545,7 @@ export const EventsMocks = {
             "e": 16.976
         },
         "s": 0.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNHAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNHAgAAAAAAAA==/",
         "_etag": "\"0000d4cc-0000-0700-0000-656b83a70000\"",
@@ -5554,16 +5554,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "lm4t6evucoa",
         "decoded": {
             "commit": "commit 1eece9eedfaffa3b8b1e90418e9c1d799c6c311f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 22:15:43 2023 +0100",
             "message": "    fix",
@@ -5588,7 +5588,7 @@ export const EventsMocks = {
             "e": 10.479
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNIAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNIAgAAAAAAAA==/",
         "_etag": "\"00004de5-0000-0700-0000-656b9e860000\"",
@@ -5597,16 +5597,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "6w2k1x0t7jb",
         "decoded": {
             "commit": "commit 1eece9eedfaffa3b8b1e90418e9c1d799c6c311f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 22:15:43 2023 +0100",
             "message": "    fix",
@@ -5631,7 +5631,7 @@ export const EventsMocks = {
             "e": 15.515999999999998
         },
         "s": 0.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNJAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNJAgAAAAAAAA==/",
         "_etag": "\"00004ee5-0000-0700-0000-656b9e860000\"",
@@ -5640,16 +5640,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "eqtt3n9o3oo",
         "decoded": {
             "commit": "commit 71fc3581e5a044c9eb27b76c48e60147563fc22e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 22:21:20 2023 +0100",
             "message": "    fix project project id when adding project and invitations",
@@ -5673,7 +5673,7 @@ export const EventsMocks = {
             "e": 17.91
         },
         "s": 1.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNKAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNKAgAAAAAAAA==/",
         "_etag": "\"00002fe6-0000-0700-0000-656b9fd20000\"",
@@ -5682,16 +5682,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "uk4fne239ac",
         "decoded": {
             "commit": "commit 71fc3581e5a044c9eb27b76c48e60147563fc22e",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 22:21:20 2023 +0100",
             "message": "    fix project project id when adding project and invitations",
@@ -5715,7 +5715,7 @@ export const EventsMocks = {
             "e": 13.09
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNLAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNLAgAAAAAAAA==/",
         "_etag": "\"000037e6-0000-0700-0000-656b9fdd0000\"",
@@ -5724,16 +5724,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "2tmadlchud4",
         "decoded": {
             "commit": "commit 0697c0339c8da674b0c2fd6ef45902ce9a4a1c6f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 22:31:26 2023 +0100",
             "message": "    reset state on log in",
@@ -5759,7 +5759,7 @@ export const EventsMocks = {
             "e": 17.214
         },
         "s": 1.2,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNMAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNMAgAAAAAAAA==/",
         "_etag": "\"0000d8e7-0000-0700-0000-656ba2370000\"",
@@ -5768,16 +5768,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "z91xyyjkst7",
         "decoded": {
             "commit": "commit 0697c0339c8da674b0c2fd6ef45902ce9a4a1c6f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 2 22:31:26 2023 +0100",
             "message": "    reset state on log in",
@@ -5803,7 +5803,7 @@ export const EventsMocks = {
             "e": 12.061
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNNAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNNAgAAAAAAAA==/",
         "_etag": "\"0000efe7-0000-0700-0000-656ba2560000\"",
@@ -5812,16 +5812,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "3k19x3sge3t",
         "decoded": {
             "commit": "commit 97ccb6c26ec85348532338c970bfe9e00353df43",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 9 07:44:34 2023 +0100",
             "message": "    more general interval approach",
@@ -5848,7 +5848,7 @@ export const EventsMocks = {
             "e": 17.082
         },
         "s": 38.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNUAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNUAgAAAAAAAA==/",
         "_etag": "\"4b0246e8-0000-0700-0000-65740cd80000\"",
@@ -5857,16 +5857,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "pxvebl6i1wl",
         "decoded": {
             "commit": "commit cf993752737446002ca27686fe53225ea80f20c4",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 9 07:45:29 2023 +0100",
             "message": "    api",
@@ -5890,7 +5890,7 @@ export const EventsMocks = {
             "e": 16.069
         },
         "s": 0.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNVAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNVAgAAAAAAAA==/",
         "_etag": "\"4b0215f8-0000-0700-0000-65740d0b0000\"",
@@ -5899,16 +5899,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "grvj1j81fg",
         "decoded": {
             "commit": "commit 1167b26dd6d85047bf3bde6c4aa4554623e7cab6",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 9 07:59:17 2023 +0100",
             "message": "    tweaks",
@@ -5933,7 +5933,7 @@ export const EventsMocks = {
             "e": 16.668
         },
         "s": 2.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNWAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNWAgAAAAAAAA==/",
         "_etag": "\"4c028cdd-0000-0700-0000-6574104e0000\"",
@@ -5942,16 +5942,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "w9bal1pw4e",
         "decoded": {
             "commit": "commit 647c259c891a14a95402bd324a9961c4e35bebf6",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 9 11:36:42 2023 +0100",
             "message": "    last day fix",
@@ -5976,7 +5976,7 @@ export const EventsMocks = {
             "e": 17.07
         },
         "s": 5.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNXAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNXAgAAAAAAAA==/",
         "_etag": "\"5b02cea5-0000-0700-0000-657443450000\"",
@@ -5985,16 +5985,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "u13a8mtoo9m",
         "decoded": {
             "commit": "commit 0d52366134bee2568f0f9c473e999aa7da305f9d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 9 11:39:37 2023 +0100",
             "message": "    cleaning unused methods",
@@ -6018,7 +6018,7 @@ export const EventsMocks = {
             "e": 17.305
         },
         "s": 32.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNYAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNYAgAAAAAAAA==/",
         "_etag": "\"5b0271d8-0000-0700-0000-657443f10000\"",
@@ -6027,16 +6027,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "c54xpyufwns",
         "decoded": {
             "commit": "commit f1c5efce0ec5fa47604e8a0c24ef59795966985c",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Dec 9 11:54:24 2023 +0100",
             "message": "    tweaks",
@@ -6061,7 +6061,7 @@ export const EventsMocks = {
             "e": 16.339
         },
         "s": 2.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNZAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNZAgAAAAAAAA==/",
         "_etag": "\"5c0259d6-0000-0700-0000-657447670000\"",
@@ -6070,16 +6070,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "en41zir3fls",
         "decoded": {
             "commit": "commit 00063e24b5b7e1448cd604762ade74a6fe88ce0d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Dec 27 10:20:12 2023 +0100",
             "message": "    wip",
@@ -6108,7 +6108,7 @@ export const EventsMocks = {
             "e": 14.911
         },
         "s": 143,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNaAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNaAgAAAAAAAA==/",
         "_etag": "\"2707addf-0000-0700-0000-658bec500000\"",
@@ -6117,16 +6117,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "mz6t74edg4",
         "decoded": {
             "commit": "commit 98c279f7f2a770c6dbfc6c72d94da299976f6416",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Dec 27 13:12:07 2023 +0100",
             "message": "    wip",
@@ -6153,7 +6153,7 @@ export const EventsMocks = {
             "e": 15.182
         },
         "s": 19.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNbAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNbAgAAAAAAAA==/",
         "_etag": "\"290747c6-0000-0700-0000-658c14a40000\"",
@@ -6162,16 +6162,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "geoy8r5wp65",
         "decoded": {
             "commit": "commit d8ccd991a9e107e8117da0a47990479d810791ab",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Wed Dec 27 13:12:58 2023 +0100",
             "message": "    wip",
@@ -6195,7 +6195,7 @@ export const EventsMocks = {
             "e": 15.582
         },
         "s": 0.2,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNcAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNcAgAAAAAAAA==/",
         "_etag": "\"2907adc9-0000-0700-0000-658c14cd0000\"",
@@ -6204,16 +6204,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "n18h5gxgr4",
         "decoded": {
             "commit": "commit ebdc0c45ebb2c183dc3477ce5add6a60a822d3d8",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 6 07:37:45 2024 +0100",
             "message": "    cal heatmap wip",
@@ -6240,7 +6240,7 @@ export const EventsMocks = {
             "e": 16.643
         },
         "s": 17.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNdAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNdAgAAAAAAAA==/",
         "_etag": "\"c6079f96-0000-0700-0000-6598f5400000\"",
@@ -6249,16 +6249,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "9bsnwgscgra",
         "decoded": {
             "commit": "commit 04d3c6223ab7ec5fdeeac854424cf85f79fe4bad",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 6 08:27:18 2024 +0100",
             "message": "    cal heatmap wip",
@@ -6284,7 +6284,7 @@ export const EventsMocks = {
             "e": 16.195
         },
         "s": 18.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNeAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNeAgAAAAAAAA==/",
         "_etag": "\"c707fc00-0000-0700-0000-659900dc0000\"",
@@ -6293,16 +6293,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "dj0xypkgzmm",
         "decoded": {
             "commit": "commit f6d47ff800425c30475ad607943a7b9230e69d81",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 07:36:32 2024 +0100",
             "message": "    cal heat map wip",
@@ -6327,7 +6327,7 @@ export const EventsMocks = {
             "e": 16.416
         },
         "s": 12.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNfAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNfAgAAAAAAAA==/",
         "_etag": "\"d207b6d1-0000-0700-0000-659a46790000\"",
@@ -6336,16 +6336,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "pf9kq3id4p",
         "decoded": {
             "commit": "commit a1f028c72a7400a980bca008d576aad26a266232",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 08:19:44 2024 +0100",
             "message": "    cleaning",
@@ -6371,7 +6371,7 @@ export const EventsMocks = {
             "e": 15.874000000000002
         },
         "s": 74.9,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNgAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNgAgAAAAAAAA==/",
         "_etag": "\"d307a758-0000-0700-0000-659a50980000\"",
@@ -6380,16 +6380,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "18zijtptzj9",
         "decoded": {
             "commit": "commit 923b20a2705ead8ef63f34866cd61852d7594190",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 08:34:13 2024 +0100",
             "message": "    almost ready",
@@ -6416,7 +6416,7 @@ export const EventsMocks = {
             "e": 17.294999999999998
         },
         "s": 11.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNhAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNhAgAAAAAAAA==/",
         "_etag": "\"d307487a-0000-0700-0000-659a53fa0000\"",
@@ -6425,16 +6425,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "qlk3nfiwwb",
         "decoded": {
             "commit": "commit 8990952dd4879784353fcb86d567c35f7eb7e876",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 08:34:37 2024 +0100",
             "message": "    wording",
@@ -6458,7 +6458,7 @@ export const EventsMocks = {
             "e": 16.73
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNiAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNiAgAAAAAAAA==/",
         "_etag": "\"d307297b-0000-0700-0000-659a540e0000\"",
@@ -6467,16 +6467,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "fi3alhzrcvr",
         "decoded": {
             "commit": "commit 65b0cae35dd3cdd83f40bf3404cefeb042803714",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 17:47:16 2024 +0100",
             "message": "    fix",
@@ -6502,7 +6502,7 @@ export const EventsMocks = {
             "e": 15.402999999999999
         },
         "s": 2.6,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNjAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNjAgAAAAAAAA==/",
         "_etag": "\"d90719b1-0000-0700-0000-659ad5a10000\"",
@@ -6511,16 +6511,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "92kp4yep2r",
         "decoded": {
             "commit": "commit 6a96f24247080ffebe9371f65022d3c3e71b38dd",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 18:14:57 2024 +0100",
             "message": "    participant candidate release",
@@ -6546,7 +6546,7 @@ export const EventsMocks = {
             "e": 17.259
         },
         "s": 4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNkAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNkAgAAAAAAAA==/",
         "_etag": "\"da07f416-0000-0700-0000-659adc1a0000\"",
@@ -6555,16 +6555,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "99vs62302yh",
         "decoded": {
             "commit": "commit 6a96f24247080ffebe9371f65022d3c3e71b38dd",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 18:14:57 2024 +0100",
             "message": "    participant candidate release",
@@ -6590,7 +6590,7 @@ export const EventsMocks = {
             "e": 12.565999999999999
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNlAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNlAgAAAAAAAA==/",
         "_etag": "\"da072518-0000-0700-0000-659adc570000\"",
@@ -6599,16 +6599,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "fvyx2qr7ggf",
         "decoded": {
             "commit": "commit d441bc58dbedd3d357e117f5fe33b8959188f4b6",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 18:25:23 2024 +0100",
             "message": "    fix for auth error",
@@ -6632,7 +6632,7 @@ export const EventsMocks = {
             "e": 12.177
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNnAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNnAgAAAAAAAA==/",
         "_etag": "\"da073625-0000-0700-0000-659ade8b0000\"",
@@ -6641,16 +6641,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "4z1e8kawyfr",
         "decoded": {
             "commit": "commit d441bc58dbedd3d357e117f5fe33b8959188f4b6",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 18:25:23 2024 +0100",
             "message": "    fix for auth error",
@@ -6674,7 +6674,7 @@ export const EventsMocks = {
             "e": 17.067999999999998
         },
         "s": 1.5,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNoAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNoAgAAAAAAAA==/",
         "_etag": "\"da073725-0000-0700-0000-659ade8b0000\"",
@@ -6683,16 +6683,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "vapo4xid0e",
         "decoded": {
             "commit": "commit c58136220499cd9050b640e8ef9ead0af2620247",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 18:33:37 2024 +0100",
             "message": "    time fix",
@@ -6716,7 +6716,7 @@ export const EventsMocks = {
             "e": 11.737000000000002
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNpAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNpAgAAAAAAAA==/",
         "_etag": "\"da07c138-0000-0700-0000-659ae0770000\"",
@@ -6725,16 +6725,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "rz2vosx2pde",
         "decoded": {
             "commit": "commit c58136220499cd9050b640e8ef9ead0af2620247",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 7 18:33:37 2024 +0100",
             "message": "    time fix",
@@ -6758,7 +6758,7 @@ export const EventsMocks = {
             "e": 16.214000000000002
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILNqAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILNqAgAAAAAAAA==/",
         "_etag": "\"da07c738-0000-0700-0000-659ae0770000\"",
@@ -6767,16 +6767,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "dml6sjqeiq",
         "decoded": {
             "commit": "commit 6828165f56e14033c26feb55e0c2e878a6b5cf2f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 14 13:18:28 2024 +0100",
             "message": "    version wip",
@@ -6805,7 +6805,7 @@ export const EventsMocks = {
             "e": 16.987000000000002
         },
         "s": 2.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILN8AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILN8AgAAAAAAAA==/",
         "_etag": "\"35012539-0000-0700-0000-65a3d1180000\"",
@@ -6814,16 +6814,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "ho22pxg2rv",
         "decoded": {
             "commit": "commit 2f97b06c2dd2c084e3c789bdbac396e3ee72e1e9",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 14 13:21:12 2024 +0100",
             "message": "    1.0.2",
@@ -6848,7 +6848,7 @@ export const EventsMocks = {
             "e": 16.325
         },
         "s": 1.5,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILN9AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILN9AgAAAAAAAA==/",
         "_etag": "\"3501815c-0000-0700-0000-65a3d1ba0000\"",
@@ -6857,16 +6857,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "viow1n31o8d",
         "decoded": {
             "commit": "commit 8cc1b23ab8c1b651e2e39bdd5b319134602d1463",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 14 16:13:15 2024 +0100",
             "message": "    version",
@@ -6893,7 +6893,7 @@ export const EventsMocks = {
             "e": 16.651000000000003
         },
         "s": 6.5,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILN+AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILN+AgAAAAAAAA==/",
         "_etag": "\"3a018cb9-0000-0700-0000-65a3fa100000\"",
@@ -6902,16 +6902,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "i5b56co8rki",
         "decoded": {
             "commit": "commit 973939c4a828706b47478a7c7ee856a1ce3650f4",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 14 16:13:35 2024 +0100",
             "message": "    release candidate",
@@ -6935,7 +6935,7 @@ export const EventsMocks = {
             "e": 12.316
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILN-AgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILN-AgAAAAAAAA==/",
         "_etag": "\"3a0175bc-0000-0700-0000-65a3fa250000\"",
@@ -6944,16 +6944,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "zimj3kb3hw",
         "decoded": {
             "commit": "commit 973939c4a828706b47478a7c7ee856a1ce3650f4",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 14 16:13:35 2024 +0100",
             "message": "    release candidate",
@@ -6977,7 +6977,7 @@ export const EventsMocks = {
             "e": 12.316
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOAAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOAAgAAAAAAAA==/",
         "_etag": "\"3a0176bc-0000-0700-0000-65a3fa250000\"",
@@ -6986,16 +6986,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "inddzbaj6rq",
         "decoded": {
             "commit": "commit 973939c4a828706b47478a7c7ee856a1ce3650f4",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 14 16:13:35 2024 +0100",
             "message": "    release candidate",
@@ -7019,7 +7019,7 @@ export const EventsMocks = {
             "e": 17.62
         },
         "s": 0.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOBAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOBAgAAAAAAAA==/",
         "_etag": "\"3a0177bc-0000-0700-0000-65a3fa250000\"",
@@ -7028,16 +7028,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "wzt7a6mzhbd",
         "decoded": {
             "commit": "commit ba5964b1807f360fe4ec33dff26deb78d9bb0bdf",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 14 16:13:34 2024 +0100",
             "message": "    1.0.3",
@@ -7062,7 +7062,7 @@ export const EventsMocks = {
             "e": 16.372
         },
         "s": 1.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOCAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOCAgAAAAAAAA==/",
         "_etag": "\"3a0179bc-0000-0700-0000-65a3fa250000\"",
@@ -7071,16 +7071,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "b01pcivf7fm",
         "decoded": {
             "commit": "commit 908c84ff6da036e67611fd59b98c24b6ad3844ad",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:40:21 2024 +0100",
             "message": "    dashboard wip",
@@ -7106,7 +7106,7 @@ export const EventsMocks = {
             "e": 16.482
         },
         "s": 103.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOEAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOEAgAAAAAAAA==/",
         "_etag": "\"e1019d33-0000-0700-0000-65ac139f0000\"",
@@ -7115,16 +7115,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "j2hmu1ix339",
         "decoded": {
             "commit": "commit 440daf059c032703bcc1d473641865cb24316f63",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:44:27 2024 +0100",
             "message": "    release candidate",
@@ -7148,7 +7148,7 @@ export const EventsMocks = {
             "e": 17.619
         },
         "s": 0.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOFAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOFAgAAAAAAAA==/",
         "_etag": "\"e1010637-0000-0700-0000-65ac14910000\"",
@@ -7157,16 +7157,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "u6krtrlpa4n",
         "decoded": {
             "commit": "commit d88875381d5670c45e4cae0602cb1c6ac81686a8",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:44:26 2024 +0100",
             "message": "    1.0.4",
@@ -7191,7 +7191,7 @@ export const EventsMocks = {
             "e": 15.991999999999999
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOGAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOGAgAAAAAAAA==/",
         "_etag": "\"e1010737-0000-0700-0000-65ac14910000\"",
@@ -7200,16 +7200,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "horyiuns6n5",
         "decoded": {
             "commit": "commit 440daf059c032703bcc1d473641865cb24316f63",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:44:27 2024 +0100",
             "message": "    release candidate",
@@ -7233,7 +7233,7 @@ export const EventsMocks = {
             "e": 12.307
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOHAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOHAgAAAAAAAA==/",
         "_etag": "\"e1014837-0000-0700-0000-65ac149c0000\"",
@@ -7242,16 +7242,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "jdxq2x99q3o",
         "decoded": {
             "commit": "commit 440daf059c032703bcc1d473641865cb24316f63",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:44:27 2024 +0100",
             "message": "    release candidate",
@@ -7275,7 +7275,7 @@ export const EventsMocks = {
             "e": 12.307
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOIAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOIAgAAAAAAAA==/",
         "_etag": "\"e1014937-0000-0700-0000-65ac149c0000\"",
@@ -7284,16 +7284,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "59pp1u0g96t",
         "decoded": {
             "commit": "commit d1c14dba27735ece3b60ba6a4cfaff9ece2088d0",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:54:13 2024 +0100",
             "message": "    release candidate",
@@ -7317,7 +7317,7 @@ export const EventsMocks = {
             "e": 12.413
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOJAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOJAgAAAAAAAA==/",
         "_etag": "\"e1015040-0000-0700-0000-65ac16da0000\"",
@@ -7326,16 +7326,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "b17zn2gpxd",
         "decoded": {
             "commit": "commit d1c14dba27735ece3b60ba6a4cfaff9ece2088d0",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:54:13 2024 +0100",
             "message": "    release candidate",
@@ -7359,7 +7359,7 @@ export const EventsMocks = {
             "e": 17.701
         },
         "s": 0.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOKAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOKAgAAAAAAAA==/",
         "_etag": "\"e1015140-0000-0700-0000-65ac16da0000\"",
@@ -7368,16 +7368,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "55voszhgfja",
         "decoded": {
             "commit": "commit 93e241674c2f8d007fa11911c783809799e85c23",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:54:12 2024 +0100",
             "message": "    1.0.5",
@@ -7402,7 +7402,7 @@ export const EventsMocks = {
             "e": 16.157
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOLAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOLAgAAAAAAAA==/",
         "_etag": "\"e1015240-0000-0700-0000-65ac16da0000\"",
@@ -7411,16 +7411,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "5eio9fw81rs",
         "decoded": {
             "commit": "commit a1eb8d52472e0a4fa8cc0677ff206756d69df47f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:54:08 2024 +0100",
             "message": "    missing api fix",
@@ -7444,7 +7444,7 @@ export const EventsMocks = {
             "e": 17.14
         },
         "s": 3.1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOMAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOMAgAAAAAAAA==/",
         "_etag": "\"e1015340-0000-0700-0000-65ac16da0000\"",
@@ -7453,16 +7453,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "9gjxjou98of",
         "decoded": {
             "commit": "commit d1c14dba27735ece3b60ba6a4cfaff9ece2088d0",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sat Jan 20 19:54:13 2024 +0100",
             "message": "    release candidate",
@@ -7486,7 +7486,7 @@ export const EventsMocks = {
             "e": 12.413
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOOAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOOAgAAAAAAAA==/",
         "_etag": "\"e1013541-0000-0700-0000-65ac16e70000\"",
@@ -7495,16 +7495,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "o5k4piqsn3f",
         "decoded": {
             "commit": "commit 3479774c78b85756f9ba296c0e4db78bdd33b3f1",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 12:46:49 2024 +0100",
             "message": "    todays projects for participant",
@@ -7530,7 +7530,7 @@ export const EventsMocks = {
             "e": 16.878
         },
         "s": 21.8,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOUAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOUAgAAAAAAAA==/",
         "_etag": "\"ee01cc09-0000-0700-0000-65ad042c0000\"",
@@ -7539,16 +7539,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "gj93z9bw3h7",
         "decoded": {
             "commit": "commit 1c83dc80b1e5d2236a5d5ab1ba501c0e332213e8",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 12:48:37 2024 +0100",
             "message": "    release candidate",
@@ -7572,7 +7572,7 @@ export const EventsMocks = {
             "e": 12.056000000000001
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOVAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOVAgAAAAAAAA==/",
         "_etag": "\"ee019a10-0000-0700-0000-65ad049b0000\"",
@@ -7581,16 +7581,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "lczz8w0tun",
         "decoded": {
             "commit": "commit 1c83dc80b1e5d2236a5d5ab1ba501c0e332213e8",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 12:48:37 2024 +0100",
             "message": "    release candidate",
@@ -7614,7 +7614,7 @@ export const EventsMocks = {
             "e": 12.056000000000001
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOWAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOWAgAAAAAAAA==/",
         "_etag": "\"ee019d10-0000-0700-0000-65ad049b0000\"",
@@ -7623,16 +7623,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "2p1o298aee2",
         "decoded": {
             "commit": "commit 1c83dc80b1e5d2236a5d5ab1ba501c0e332213e8",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 12:48:37 2024 +0100",
             "message": "    release candidate",
@@ -7656,7 +7656,7 @@ export const EventsMocks = {
             "e": 17.354
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOXAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOXAgAAAAAAAA==/",
         "_etag": "\"ee019f10-0000-0700-0000-65ad049b0000\"",
@@ -7665,16 +7665,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "jr68u4y0v1",
         "decoded": {
             "commit": "commit 6bfea258cccbb322024bda5ba9565fe464d4434a",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 12:48:36 2024 +0100",
             "message": "    1.0.6",
@@ -7699,7 +7699,7 @@ export const EventsMocks = {
             "e": 16.041999999999998
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOYAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOYAgAAAAAAAA==/",
         "_etag": "\"ee01a110-0000-0700-0000-65ad049b0000\"",
@@ -7708,16 +7708,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "z82eh45ar7",
         "decoded": {
             "commit": "commit 5d36493b1d4d09e183326cfe2df5bb0b33022b40",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 16:09:38 2024 +0100",
             "message": "    release candidate",
@@ -7741,7 +7741,7 @@ export const EventsMocks = {
             "e": 17.565
         },
         "s": 0.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOZAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOZAgAAAAAAAA==/",
         "_etag": "\"f0018f9d-0000-0700-0000-65ad33b40000\"",
@@ -7750,16 +7750,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "h3gxkthhd89",
         "decoded": {
             "commit": "commit 7b1f18290091156b433adcb8f109f127aa7ad765",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 16:09:37 2024 +0100",
             "message": "    1.0.7",
@@ -7784,7 +7784,7 @@ export const EventsMocks = {
             "e": 16.253999999999998
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOaAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOaAgAAAAAAAA==/",
         "_etag": "\"f001909d-0000-0700-0000-65ad33b40000\"",
@@ -7793,16 +7793,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "l3a7u8g538c",
         "decoded": {
             "commit": "commit a988d5814b81bf17d38c8760300db835d5d9bcc9",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 16:09:32 2024 +0100",
             "message": "    fix",
@@ -7826,7 +7826,7 @@ export const EventsMocks = {
             "e": 15.736999999999998
         },
         "s": 0.3,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILObAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILObAgAAAAAAAA==/",
         "_etag": "\"f001939d-0000-0700-0000-65ad33b40000\"",
@@ -7835,16 +7835,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "fxvboihrqof",
         "decoded": {
             "commit": "commit 5d36493b1d4d09e183326cfe2df5bb0b33022b40",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 16:09:38 2024 +0100",
             "message": "    release candidate",
@@ -7868,7 +7868,7 @@ export const EventsMocks = {
             "e": 12.249
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOcAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOcAgAAAAAAAA==/",
         "_etag": "\"f0016b9e-0000-0700-0000-65ad33bf0000\"",
@@ -7877,16 +7877,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "kperer11q8d",
         "decoded": {
             "commit": "commit 5d36493b1d4d09e183326cfe2df5bb0b33022b40",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Sun Jan 21 16:09:38 2024 +0100",
             "message": "    release candidate",
@@ -7910,7 +7910,7 @@ export const EventsMocks = {
             "e": 12.249
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOdAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOdAgAAAAAAAA==/",
         "_etag": "\"f0016f9e-0000-0700-0000-65ad33bf0000\"",
@@ -7919,16 +7919,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "ecacrpafl7",
         "decoded": {
             "commit": "commit cc23707daa11bbba3544361fb7ad9a6616cdb449",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:46:47 2024 +0100",
             "message": "    fonts",
@@ -7952,7 +7952,7 @@ export const EventsMocks = {
             "e": 16.080000000000002
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOgAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOgAgAAAAAAAA==/",
         "_etag": "\"fe011b01-0000-0700-0000-65ae2b800000\"",
@@ -7961,16 +7961,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "lcfui2wxhr",
         "decoded": {
             "commit": "commit d7c1cd742e93e5787407db091ba4afcceb4660bd",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:47:05 2024 +0100",
             "message": "    1.0.8",
@@ -7995,7 +7995,7 @@ export const EventsMocks = {
             "e": 16.204
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOhAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOhAgAAAAAAAA==/",
         "_etag": "\"fe011e01-0000-0700-0000-65ae2b8b0000\"",
@@ -8004,16 +8004,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "fqr973fwi95",
         "decoded": {
             "commit": "commit 07a6905c20a1a49b1493814bd1b6a1c3fdc0d871",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:47:07 2024 +0100",
             "message": "    release candidate",
@@ -8037,7 +8037,7 @@ export const EventsMocks = {
             "e": 12.299
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOiAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOiAgAAAAAAAA==/",
         "_etag": "\"fe012201-0000-0700-0000-65ae2b950000\"",
@@ -8046,16 +8046,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "fuuye6q0lai",
         "decoded": {
             "commit": "commit 07a6905c20a1a49b1493814bd1b6a1c3fdc0d871",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:47:07 2024 +0100",
             "message": "    release candidate",
@@ -8079,7 +8079,7 @@ export const EventsMocks = {
             "e": 12.299
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOjAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOjAgAAAAAAAA==/",
         "_etag": "\"fe012301-0000-0700-0000-65ae2b950000\"",
@@ -8088,16 +8088,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "3bwfjcsf0gb",
         "decoded": {
             "commit": "commit 07a6905c20a1a49b1493814bd1b6a1c3fdc0d871",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:47:07 2024 +0100",
             "message": "    release candidate",
@@ -8121,7 +8121,7 @@ export const EventsMocks = {
             "e": 17.602
         },
         "s": 0.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOkAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOkAgAAAAAAAA==/",
         "_etag": "\"fe012401-0000-0700-0000-65ae2b960000\"",
@@ -8130,16 +8130,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "78fr3sm52k8",
         "decoded": {
             "commit": "commit 27ba645975e34b81802420442665719f883cbca5",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:49:57 2024 +0100",
             "message": "    release candidate",
@@ -8163,7 +8163,7 @@ export const EventsMocks = {
             "e": 12.387
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOlAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOlAgAAAAAAAA==/",
         "_etag": "\"fe01a805-0000-0700-0000-65ae2c370000\"",
@@ -8172,16 +8172,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "yy0tqz013nc",
         "decoded": {
             "commit": "commit 27ba645975e34b81802420442665719f883cbca5",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:49:57 2024 +0100",
             "message": "    release candidate",
@@ -8205,7 +8205,7 @@ export const EventsMocks = {
             "e": 17.714
         },
         "s": 0.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOmAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOmAgAAAAAAAA==/",
         "_etag": "\"fe01aa05-0000-0700-0000-65ae2c370000\"",
@@ -8214,16 +8214,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "wdbw01cte5r",
         "decoded": {
             "commit": "commit cfc16035a126822ff1f49f3b13ec6f7cbd174a69",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:49:55 2024 +0100",
             "message": "    1.0.9",
@@ -8248,7 +8248,7 @@ export const EventsMocks = {
             "e": 16.195999999999998
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOnAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOnAgAAAAAAAA==/",
         "_etag": "\"fe01ab05-0000-0700-0000-65ae2c370000\"",
@@ -8257,16 +8257,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "c6b72yanwt",
         "decoded": {
             "commit": "commit 53b3980f041fea60ada5e3c4f357b603db130232",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:49:51 2024 +0100",
             "message": "    styling",
@@ -8290,7 +8290,7 @@ export const EventsMocks = {
             "e": 16.694
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOoAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOoAgAAAAAAAA==/",
         "_etag": "\"fe01ac05-0000-0700-0000-65ae2c370000\"",
@@ -8299,16 +8299,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "qs7igq28e2",
         "decoded": {
             "commit": "commit 27ba645975e34b81802420442665719f883cbca5",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:49:57 2024 +0100",
             "message": "    release candidate",
@@ -8332,7 +8332,7 @@ export const EventsMocks = {
             "e": 12.387
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOpAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOpAgAAAAAAAA==/",
         "_etag": "\"fe01ff05-0000-0700-0000-65ae2c420000\"",
@@ -8341,16 +8341,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "v8t16sb9bac",
         "decoded": {
             "commit": "commit 7148276ecff6e7668b9aaf44068a875b83e0125f",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:58:10 2024 +0100",
             "message": "    styling",
@@ -8374,7 +8374,7 @@ export const EventsMocks = {
             "e": 16.699
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOqAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOqAgAAAAAAAA==/",
         "_etag": "\"fe01541b-0000-0700-0000-65ae2e250000\"",
@@ -8383,16 +8383,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "5ns2oj2ca3g",
         "decoded": {
             "commit": "commit 7e5429302f50cc264f8f629ef56cf579a0bf4fa1",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:58:19 2024 +0100",
             "message": "    release candidate",
@@ -8416,7 +8416,7 @@ export const EventsMocks = {
             "e": 12.258000000000001
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOrAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOrAgAAAAAAAA==/",
         "_etag": "\"fe017d1b-0000-0700-0000-65ae2e300000\"",
@@ -8425,16 +8425,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "fda1klx1sop",
         "decoded": {
             "commit": "commit 7e5429302f50cc264f8f629ef56cf579a0bf4fa1",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:58:19 2024 +0100",
             "message": "    release candidate",
@@ -8458,7 +8458,7 @@ export const EventsMocks = {
             "e": 12.258000000000001
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOsAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOsAgAAAAAAAA==/",
         "_etag": "\"fe017e1b-0000-0700-0000-65ae2e300000\"",
@@ -8467,16 +8467,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "6us7480bobe",
         "decoded": {
             "commit": "commit 7e5429302f50cc264f8f629ef56cf579a0bf4fa1",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:58:19 2024 +0100",
             "message": "    release candidate",
@@ -8500,7 +8500,7 @@ export const EventsMocks = {
             "e": 17.535
         },
         "s": 0.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOtAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOtAgAAAAAAAA==/",
         "_etag": "\"fe017f1b-0000-0700-0000-65ae2e300000\"",
@@ -8509,16 +8509,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "obbm9p1a3vk",
         "decoded": {
             "commit": "commit 1eeb25d9eab76dd0e6e1d25f253f2c6e71c41756",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 09:58:16 2024 +0100",
             "message": "    1.0.10",
@@ -8543,7 +8543,7 @@ export const EventsMocks = {
             "e": 15.951
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOuAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOuAgAAAAAAAA==/",
         "_etag": "\"fe01801b-0000-0700-0000-65ae2e300000\"",
@@ -8552,16 +8552,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "t5nvxvgy3z",
         "decoded": {
             "commit": "commit bab97856246ee20f4dc6fdfb15dd864111235094",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 10:03:30 2024 +0100",
             "message": "    styling",
@@ -8586,7 +8586,7 @@ export const EventsMocks = {
             "e": 16.786
         },
         "s": 1.7,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOvAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOvAgAAAAAAAA==/",
         "_etag": "\"fe01e81d-0000-0700-0000-65ae2f650000\"",
@@ -8595,16 +8595,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "dxwyxsc1m6b",
         "decoded": {
             "commit": "commit 18f5444dfa3f7e2c819e6836ccf69b9e9af5861d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 10:03:47 2024 +0100",
             "message": "    release candidate",
@@ -8628,7 +8628,7 @@ export const EventsMocks = {
             "e": 12.335
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOwAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOwAgAAAAAAAA==/",
         "_etag": "\"fe01f91d-0000-0700-0000-65ae2f7a0000\"",
@@ -8637,16 +8637,16 @@ export const EventsMocks = {
     },
     {
         "oper": "push",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "gskbzrhek6i",
         "decoded": {
             "commit": "commit 18f5444dfa3f7e2c819e6836ccf69b9e9af5861d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 10:03:47 2024 +0100",
             "message": "    release candidate",
@@ -8670,7 +8670,7 @@ export const EventsMocks = {
             "e": 12.335
         },
         "s": 13,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOxAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOxAgAAAAAAAA==/",
         "_etag": "\"fe01fa1d-0000-0700-0000-65ae2f7a0000\"",
@@ -8679,16 +8679,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "lh6few6p8w",
         "decoded": {
             "commit": "commit 18f5444dfa3f7e2c819e6836ccf69b9e9af5861d",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 10:03:47 2024 +0100",
             "message": "    release candidate",
@@ -8712,7 +8712,7 @@ export const EventsMocks = {
             "e": 17.627000000000002
         },
         "s": 0.4,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOyAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOyAgAAAAAAAA==/",
         "_etag": "\"fe01fd1d-0000-0700-0000-65ae2f7a0000\"",
@@ -8721,16 +8721,16 @@ export const EventsMocks = {
     },
     {
         "oper": "commit",
-        "remote": "https://@github.com/alkeicam/exe-dev-app-web.git",
-        "account": "a_execon",
-        "user": "jan.kowalski@execon.pl",
-        "project": "a_execon_devjam_sponsor",
+        "remote": "https://@github.com/alkeicam/dev-app-web.git",
+        "account": "a_account",
+        "user": "albert.einstein@mail.com",
+        "project": "a_account_devjam_sponsor",
         "id": "j1mdg2s5lm8",
         "decoded": {
             "commit": "commit 31e01c18565bd0fa1dcb3fd847223d1871a8a1e7",
             "author": {
-                "name": "Maciej Grula ",
-                "email": "maciej.grula@execon.pl"
+                "name": "Some Guy ",
+                "email": "some.guy@mail.com"
             },
             "date": "Date:   Mon Jan 22 10:03:45 2024 +0100",
             "message": "    1.0.11",
@@ -8755,13 +8755,139 @@ export const EventsMocks = {
             "e": 15.902000000000001
         },
         "s": 1,
-        "tenantId": "a_execon",
+        "tenantId": "a_account",
         "_rid": "SLxNAIKMILOzAgAAAAAAAA==",
         "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILOzAgAAAAAAAA==/",
         "_etag": "\"fe01fe1d-0000-0700-0000-65ae2f7a0000\"",
         "_attachments": "attachments/",
         "_ts": 1705914234
     }
+],
+devworkout_2: [
+  {
+      "oper": "commit",
+      "account": "acct1",
+      "user": "albert.einstein@mail.com",
+      "project": "project1",
+      "id": "wqp2yz9ibz8",
+      "decoded": {
+          "commit": "commit 861c46520ff1c198a621510b6fae3bf8cebdac74",
+          "changeSummary": {
+              "raw": " 4 files changed, 74 insertions(+), 627 deletions(-)",
+              "files": 4,
+              "inserts": 74,
+              "deletions": 627
+          }
+      },
+      "ct": 1693342741795,
+      "e": {
+          "ec": 4.161,
+          "em": 3.48,
+          "et": 0,
+          "er": 4.818,
+          "ed": 4.194,
+          "e": 16.653
+      },
+      "s": 116.7,
+      "_rid": "SLxNAIKMILO0AAAAAAAAAA==",
+      "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO0AAAAAAAAAA==/",
+      "_etag": "\"d9001d2f-0000-0700-0000-64ee5c250000\"",
+      "_attachments": "attachments/",
+      "_ts": 1693342757
+  },
+  {
+      "oper": "push",
+      "account": "acct1",
+      "user": "albert.einstein@mail.com",
+      "project": "project2",
+      "id": "12jjb85rdce9",
+      "decoded": {
+          "commit": "commit 9cd9a5adbbfbb842f220e32643502bd2f35ef8d0",
+          "changeSummary": {
+              "raw": " 1 file changed, 1 insertion(+), 1 deletion(-)",
+              "files": 1,
+              "inserts": 1,
+              "deletions": 1
+          }
+      },
+      "ct": 1693342968768,
+      "e": {
+          "ec": 4.036,
+          "em": 2.617,
+          "et": 0,
+          "er": 5.097,
+          "ed": 0,
+          "e": 11.75
+      },
+      "s": 13,
+      "_rid": "SLxNAIKMILO1AAAAAAAAAA==",
+      "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO1AAAAAAAAAA==/",
+      "_etag": "\"d9001f33-0000-0700-0000-64ee5d160000\"",
+      "_attachments": "attachments/",
+      "_ts": 1693342998
+  },
+  {
+      "oper": "commit",
+      "account": "acct1",
+      "user": "john.doe@mail.com",
+      "project": "project1",
+      "id": "5j4a6shjccq",
+      "decoded": {
+          "commit": "commit 9cd9a5adbbfbb842f220e32643502bd2f35ef8d0",
+          "changeSummary": {
+              "raw": " 1 file changed, 1 insertion(+), 1 deletion(-)",
+              "files": 1,
+              "inserts": 1,
+              "deletions": 1
+          }
+      },
+      "ct": 1693342964497,
+      "e": {
+          "ec": 4.036,
+          "em": 2.617,
+          "et": 0,
+          "er": 5.097,
+          "ed": 4.963,
+          "e": 16.713
+      },
+      "s": 0.3,
+      "_rid": "SLxNAIKMILO2AAAAAAAAAA==",
+      "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO2AAAAAAAAAA==/",
+      "_etag": "\"d9002033-0000-0700-0000-64ee5d160000\"",
+      "_attachments": "attachments/",
+      "_ts": 1693342998
+  },
+  {
+      "oper": "commit",
+      "account": "acct1",
+      "user": "isaac.newton@mail.com",
+      "project": "project2",
+      "id": "9s7e1ewxaoe",
+      "decoded": {
+          "commit": "commit 848504a842e81e7141f5e69c79a541ed3e31a6d9",
+          "changeSummary": {
+              "raw": " 1 file changed, 2 insertions(+)",
+              "files": 1,
+              "inserts": 2,
+              "deletions": 0
+          }
+      },
+      "ct": 1693344077023,
+      "e": {
+          "ec": 4.085,
+          "em": 1.252,
+          "et": 0,
+          "er": 5.092,
+          "ed": 5.106,
+          "e": 15.534999999999998
+      },
+      "s": 0.3,
+      "_rid": "SLxNAIKMILO3AAAAAAAAAA==",
+      "_self": "dbs/SLxNAA==/colls/SLxNAIKMILM=/docs/SLxNAIKMILO3AAAAAAAAAA==/",
+      "_etag": "\"d900ef47-0000-0700-0000-64ee61510000\"",
+      "_attachments": "attachments/",
+      "_ts": 1693344082
+  }
 ]
 }
 
