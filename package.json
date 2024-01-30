@@ -5,6 +5,10 @@
   "main": "dist/table2object.umd.js",
   "types": "dist/table2object.d.ts",
   "module": "dist/table2object.esm.min.js",
+  "homepage": "https://github.com/alkeicam/table2object",
+  "bugs": {
+      "url": "https://github.com/alkeicam/table2object/issues"      
+  },
   "keywords": [
     "strategy",
     "game",
