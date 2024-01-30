@@ -1,6 +1,6 @@
 {
   "name": "table2object",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Table to object - transform array with rows into an JavaScript object - build object with structure from tabular data",
   "main": "dist/table2object.umd.js",
   "types": "dist/table2object.d.ts",
