@@ -44,7 +44,10 @@ import {AccumulatorsFactory} from "../src/table2object"
 import {GeneratorsFactory} from "../src/table2object"
 ```
 
-### Transform array - build structure grouping by selected columns
+### Structure by selected columns
+Transform array - build structure grouping by selected columns
+
+
 ```
 const data = [{},...,{}] // some array of rows/objects
 
@@ -60,7 +63,10 @@ const specs:Specification = {
 const result = transformer.transform(data, specs);
 ```
 
-### Transform array with aggregates - build structure grouping by selected columns and adding accumulation/aggregate values
+### Structure and generate aggregate values
+Transform array with aggregates - build structure grouping by selected columns and adding accumulation/aggregate values
+
+
 ```
 const data = [{},...,{}] // some array of rows/objects
 
@@ -77,7 +83,10 @@ const specs:Specification = {
 const result = transformer.transform(data, specs);
 ```
 
-### Transform array with aggregates and custom/generated/derived grouping values - build structure grouping by selected columns and adding accumulation/aggregate values, some structure level keys are generated using provided function
+### Structure by custom function
+Transform array with aggregates and custom/generated/derived grouping values - build structure grouping by selected columns and adding accumulation/aggregate values, some structure level keys are generated using provided function
+
+
 ```
 const data = [{},...,{}] // some array of rows/objects
 
