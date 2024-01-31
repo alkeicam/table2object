@@ -12,7 +12,7 @@ export default {
       format: 'umd',
       name: 'table2object'      
     },
-  ],
-  external:[],
+  ],  
+  external:['moment'],
   plugins: [typescript()],
 };
