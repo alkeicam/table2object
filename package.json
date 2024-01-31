@@ -39,8 +39,7 @@
   ],
   "author": "Maciej Grula",
   "license": "MIT",
-  "dependencies": {
-    "eventemitter3": "^5.0.1",
+  "dependencies": {    
     "moment": "2.30.1"
   },
   "devDependencies": {
